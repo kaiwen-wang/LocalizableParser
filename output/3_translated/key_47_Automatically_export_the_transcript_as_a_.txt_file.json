@@ -1,0 +1,118 @@
+{
+  "sourceLanguage": "en",
+  "version": "1.0",
+  "strings": {
+    "Automatically export the transcript as a .txt file after the meeting.": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Automatisch das Transkript als .txt-Datei nach dem Meeting exportieren."
+          }
+        },
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Exportar automáticamente la transcripción como un archivo .txt después de la reunión."
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Exporter automatiquement la transcription sous forme de fichier .txt après la réunion."
+          }
+        },
+        "hi": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "मीटिंग के बाद स्वचालित रूप से ट्रांसक्रिप्ट को .txt फ़ाइल के रूप में निर्यात करें।"
+          }
+        },
+        "id": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Secara otomatis ekspor transkrip sebagai file .txt setelah pertemuan."
+          }
+        },
+        "it": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Esporta automaticamente la trascrizione come file .txt dopo la riunione."
+          }
+        },
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "会議後、自動的にトランスクリプトを .txt ファイルとしてエクスポートします。"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "회의 후 자동으로 대본을 .txt 파일로 내보내기."
+          }
+        },
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Automatisch het transcript exporteren als een .txt-bestand na de vergadering."
+          }
+        },
+        "pl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Automatycznie eksportuj transkrypt jako plik .txt po spotkaniu."
+          }
+        },
+        "pt-BR": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Exportar automaticamente a transcrição como um arquivo .txt após a reunião."
+          }
+        },
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Автоматически экспортировать транскрипт в файл .txt после встречи."
+          }
+        },
+        "th": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "ส่งออก transcript โดยอัตโนมัติเป็นไฟล์ .txt หลังจากการประชุม."
+          }
+        },
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Toplantıdan sonra transkripti otomatik olarak bir .txt dosyası olarak dışa aktar."
+          }
+        },
+        "uk": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Автоматично експортувати транскрипцію як файл .txt після зустрічі."
+          }
+        },
+        "vi": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Tự động xuất bản bản ghi dưới dạng tệp .txt sau cuộc họp."
+          }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "在会议结束后自动将记录导出为 .txt 文件。"
+          }
+        },
+        "zh-Hant": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "在會議結束後自動將文字記錄匯出為 .txt 檔案。"
+          }
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,119 @@
+{
+  "sourceLanguage": "en",
+  "version": "1.0",
+  "strings": {
+    "No models found. Please pull a model using 'ollama pull' in Terminal.": {
+      "comment": "Error shown when no models are available",
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Keine Modelle gefunden. Bitte ziehen Sie ein Modell mit 'ollama pull' im Terminal."
+          }
+        },
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "No se encontraron modelos. Por favor, extrae un modelo usando 'ollama pull' en Terminal."
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Aucun modèle trouvé. Veuillez tirer un modèle en utilisant 'ollama pull' dans Terminal."
+          }
+        },
+        "hi": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "कोई मॉडल नहीं मिला। कृपया टर्मिनल में 'ollama pull' का उपयोग करके एक मॉडल खींचें।"
+          }
+        },
+        "id": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Tidak ada model yang ditemukan. Silakan tarik model menggunakan 'ollama pull' di Terminal."
+          }
+        },
+        "it": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Nessun modello trovato. Eseguire il pull di un modello utilizzando 'ollama pull' in Terminal."
+          }
+        },
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "モデルが見つかりません。ターミナルで 'ollama pull' を使用してモデルを取得してください。"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "모델을 찾을 수 없습니다. 터미널에서 'ollama pull'을 사용하여 모델을 가져와주세요."
+          }
+        },
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Geen modellen gevonden. Trek alstublieft een model met behulp van 'ollama pull' in Terminal."
+          }
+        },
+        "pl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Nie znaleziono modeli. Proszę pobrać model za pomocą „ollama pull” w Terminalu."
+          }
+        },
+        "pt-BR": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Nenhum modelo encontrado. Por favor, puxe um modelo usando 'ollama pull' no Terminal."
+          }
+        },
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Модели не найдены. Пожалуйста, загрузите модель, используя 'ollama pull' в терминале."
+          }
+        },
+        "th": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "ไม่พบโมเดล โปรดดึงโมเดลโดยใช้ 'ollama pull' ใน Terminal ค่ะ"
+          }
+        },
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Modeller bulunamadı. Lütfen Terminal'de 'ollama pull' kullanarak bir model çekin."
+          }
+        },
+        "uk": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Моделі не знайдено. Будь ласка, витягніть модель, використовуючи 'ollama pull' в Терміналі."
+          }
+        },
+        "vi": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Không tìm thấy mô hình. Vui lòng kéo một mô hình bằng cách sử dụng 'ollama pull' trong Terminal."
+          }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "未找到模型。请在终端中使用“ollama pull”拉取模型。"
+          }
+        },
+        "zh-Hant": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "找不到模型。請在終端機中使用'ollama pull'拉取模型。"
+          }
+        }
+      }
+    }
+  }
+}

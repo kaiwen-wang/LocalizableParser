@@ -1,0 +1,119 @@
+{
+  "sourceLanguage": "en",
+  "version": "1.0",
+  "strings": {
+    "Based on this recent conversation, provide 3 different possible responses. If the original conversation involves a non-Latin script, please provide romanized versions as well:\n%@": {
+      "comment": "Format string for response request with transcript with romanization instruction",
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Basierend auf diesem aktuellen Gespräch, geben Sie 3 verschiedene mögliche Antworten. Wenn das ursprüngliche Gespräch ein nicht lateinisches Skript enthält, geben Sie bitte auch die romanisierten Versionen an:\n%@"
+          }
+        },
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Basado en esta conversación reciente, proporciona 3 respuestas posibles diferentes. Si la conversación original involucra un guion no latino, por favor proporciona versiones romanizadas también: %@."
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Basé sur cette conversation récente, fournir 3 réponses possibles différentes. Si la conversation originale implique un script non latin, veuillez fournir également des versions romanisées :\n%@"
+          }
+        },
+        "hi": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "इस हाल की बातचीत के आधार पर, 3 विभिन्न संभावित प्रतिक्रियाएँ प्रदान करें। यदि मूल बातचीत में गैर-लैटिन लिपि शामिल है, तो कृपया रोमनीकृत संस्करण भी प्रदान करें:\n%@"
+          }
+        },
+        "id": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Berdasarkan percakapan terbaru ini, berikan 3 respon yang berbeda. Jika percakapan asli melibatkan skrip non-Latin, harap berikan versi romanisasi juga:\n%@"
+          }
+        },
+        "it": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Basandoti su questa recente conversazione, fornisci 3 diverse possibili risposte. Se la conversazione originale coinvolge uno script non latino, fornisci anche le versioni romanizzate:\n%@."
+          }
+        },
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "この最近の会話に基づいて、3つの異なる可能な応答を提供してください。元の会話が非ラテン文字スクリプトを含む場合は、ローマ字バージョンも提供してください：\n%@."
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "이 최근 대화를 기반으로 3가지 다른 가능한 응답을 제공하십시오. 원래 대화가 라틴 문자가 아닌 스크립트를 포함하는 경우 로마자 버전도 제공하십시오:\n%@."
+          }
+        },
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Gebaseerd op dit recente gesprek, geef 3 verschillende mogelijke antwoorden. Als het oorspronkelijke gesprek een niet-Latijns schrift bevat, geef dan ook de geromaniseerde versies:\n%@"
+          }
+        },
+        "pl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Na podstawie tej ostatniej rozmowy, podaj 3 różne możliwe odpowiedzi. Jeśli oryginalna rozmowa zawiera nielatynizowany skrypt, podaj również zromanizowane wersje.\n%@"
+          }
+        },
+        "pt-BR": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Com base nesta conversa recente, forneça 3 respostas possíveis diferentes. Se a conversa original envolver um script não latino, forneça também versões romanizadas:\n%@"
+          }
+        },
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "На основе этого недавнего разговора предоставьте 3 различных возможных ответа. Если исходный разговор включает нелатинский скрипт, пожалуйста, предоставьте также романизированные версии:\n%@."
+          }
+        },
+        "th": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "โดยขึ้นอยู่กับการสนทนาล่าสุดนี้ โปรดให้คำตอบที่เป็นไปได้ 3 แบบที่แตกต่างกัน หากการสนทนาเดิมเกี่ยวข้องกับสคริปต์ที่ไม่ใช่ภาษาละติน โปรดให้เวอร์ชันโรมันด้วย\n%@"
+          }
+        },
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Bu son konuşmaya dayanarak, 3 farklı olası yanıt sağlayın. Orijinal konuşma Latin olmayan bir yazı içeriyorsa, lütfen romanize edilmiş sürümleri de sağlayın:\n%@."
+          }
+        },
+        "uk": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "\"На основі цієї останньої розмови надайте 3 різних можливих відповіді. Якщо початкова розмова включає нелатинський скрипт, будь ласка, надайте романізовані версії також:\n%@\""
+          }
+        },
+        "vi": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "\"Dựa trên cuộc trò chuyện gần đây này, cung cấp 3 phản hồi khác nhau có thể. Nếu cuộc trò chuyện gốc liên quan đến một kịch bản không Latin, vui lòng cung cấp phiên bản Latin hóa cũng:\n%@\""
+          }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "根据这次最近的对话，提供3种不同的可能回应。如果原始对话涉及非拉丁文字，请提供罗马化版本：\n%@。"
+          }
+        },
+        "zh-Hant": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "根據這次最近的對話，提供3種不同的可能回應。如果原始對話涉及非拉丁文字，請提供羅馬化版本：\n%@"
+          }
+        }
+      }
+    }
+  }
+}

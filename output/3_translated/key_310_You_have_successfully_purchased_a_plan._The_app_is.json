@@ -1,0 +1,118 @@
+{
+  "sourceLanguage": "en",
+  "version": "1.0",
+  "strings": {
+    "You have successfully purchased a plan. The app is no longer in Trial Mode.": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Sie haben erfolgreich einen Plan erworben. Die App befindet sich nicht mehr im Testmodus."
+          }
+        },
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Ha comprado con éxito un plan. La aplicación ya no está en modo de prueba."
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Vous avez acheté avec succès un abonnement. L'application n'est plus en mode d'essai."
+          }
+        },
+        "hi": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "आपने सफलतापूर्वक एक योजना खरीदी है। ऐप अब परीक्षण मोड में नहीं है।"
+          }
+        },
+        "id": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Anda telah berhasil membeli sebuah paket. Aplikasi tidak lagi dalam Mode Uji Coba."
+          }
+        },
+        "it": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Hai acquistato con successo un piano. L'app non è più in modalità di prova."
+          }
+        },
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "プランの購入が完了しました。アプリはもはやトライアルモードではありません。"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "계획을 성공적으로 구매하셨습니다. 앱은 더 이상 평가판 모드가 아닙니다."
+          }
+        },
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "U heeft succesvol een plan gekocht. De app is niet langer in de proefmodus."
+          }
+        },
+        "pl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Pomyślnie zakupiono plan. Aplikacja nie jest już w trybie próbnym."
+          }
+        },
+        "pt-BR": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Você comprou um plano com sucesso. O aplicativo não está mais no Modo de Teste."
+          }
+        },
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Вы успешно приобрели план. Приложение больше не находится в режиме пробного использования."
+          }
+        },
+        "th": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "คุณได้ซื้อแผนเรียบร้อยแล้ว แอปไม่ได้อยู่ในโหมดทดลองอีกต่อไป"
+          }
+        },
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Plan başarıyla satın alındı. Uygulama Artık Deneme Modunda Değil."
+          }
+        },
+        "uk": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Ви успішно придбали план. Додаток більше не знаходиться в режимі пробного періоду."
+          }
+        },
+        "vi": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Bạn đã mua thành công một gói. Ứng dụng không còn ở chế độ Dùng thử nữa."
+          }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "您已成功购买了一个计划。该应用程序不再处于试用模式。"
+          }
+        },
+        "zh-Hant": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "您已成功購買了一個方案。應用程式不再處於試用模式。"
+          }
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,118 @@
+{
+  "sourceLanguage": "en",
+  "version": "1.0",
+  "strings": {
+    "Store Validated: %@ (Click to toggle)": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Geschäft validiert: %@ (Klicken Sie zum Umschalten)"
+          }
+        },
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Tienda validada: %@ (Haga clic para alternar)"
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Magasin validé : %@ (Cliquez pour basculer)"
+          }
+        },
+        "hi": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Store Validated: %@ (Click to toggle)"
+          }
+        },
+        "id": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Toko Tervalidasi: %@ (Klik untuk beralih)"
+          }
+        },
+        "it": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Negozio convalidato: %@ (Clicca per attivare/disattivare)"
+          }
+        },
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "ストアが検証されました: %@ (クリックして切り替え)"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "저장소 확인됨: %@ (전환하려면 클릭)"
+          }
+        },
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Winkel Geverifieerd: %@ (Klik om te schakelen)"
+          }
+        },
+        "pl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Sklep zweryfikowany: %@ (Kliknij, aby przełączyć)"
+          }
+        },
+        "pt-BR": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Loja validada: %@ (Clique para alternar)"
+          }
+        },
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Магазин подтвержден: %@ (Нажмите, чтобы переключить)"
+          }
+        },
+        "th": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "ร้านค้าได้รับการตรวจสอบ: %@ (คลิกเพื่อสลับ)"
+          }
+        },
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Mağaza Doğrulandı: %@ (Değiştirmek için tıklayın)"
+          }
+        },
+        "uk": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Магазин підтверджено: %@ (Клацніть, щоб перемкнути)"
+          }
+        },
+        "vi": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Cửa hàng đã được xác thực: %@ (Nhấn để chuyển đổi)"
+          }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "存储已验证：%@（点击切换）"
+          }
+        },
+        "zh-Hant": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "商店已驗證：%@（點擊切換）"
+          }
+        }
+      }
+    }
+  }
+}

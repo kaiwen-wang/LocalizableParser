@@ -1,0 +1,118 @@
+{
+  "sourceLanguage": "en",
+  "version": "1.0",
+  "strings": {
+    "Unlock more of TranscribeTranslate's power with these tips:": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Entdecken Sie mehr von der Leistungsfähigkeit von TranscribeTranslate mit diesen Tipps:"
+          }
+        },
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Desbloquea más poder de TranscribeTranslate con estos consejos:"
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Débloquez plus de puissance de TranscribeTranslate avec ces astuces :"
+          }
+        },
+        "hi": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "TranscribeTranslate की अधिक शक्ति को इन टिप्स के साथ अनलॉक करें:"
+          }
+        },
+        "id": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Buka lebih banyak kekuatan TranscribeTranslate dengan tips ini:"
+          }
+        },
+        "it": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Sblocca più potenza di TranscribeTranslate con questi suggerimenti:"
+          }
+        },
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "これらのヒントで、TranscribeTranslateの機能をさらに解除します："
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "TranscribeTranslate의 더 많은 기능을 활용하는 팁을 확인하세요:"
+          }
+        },
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Ontgrendel meer van de kracht van TranscribeTranslate met deze tips:"
+          }
+        },
+        "pl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Odblokuj więcej mocy TranscribeTranslate za pomocą tych wskazówek:"
+          }
+        },
+        "pt-BR": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Desbloqueie mais poder do TranscreverTraduzir com estas dicas:"
+          }
+        },
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Разблокируйте больше возможностей TranscribeTranslate с помощью этих советов:"
+          }
+        },
+        "th": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "ปลดล็อคพลังของ TranscribeTranslate เพิ่มเติมด้วยเคล็ดลับเหล่านี้:"
+          }
+        },
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Bu ipuçları ile TranscribeTranslate'in daha fazla gücünü açın:"
+          }
+        },
+        "uk": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Розблокуйте більше можливостей TranscribeTranslate за допомогою цих порад:"
+          }
+        },
+        "vi": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Mở khóa sức mạnh của TranscribeTranslate hơn với những mẹo sau:"
+          }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "使用以下提示解锁TranscribeTranslate更多功能："
+          }
+        },
+        "zh-Hant": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "使用以下提示解鎖更多 TranscribeTranslate 的功能："
+          }
+        }
+      }
+    }
+  }
+}

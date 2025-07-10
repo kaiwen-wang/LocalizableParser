@@ -1,0 +1,118 @@
+{
+  "sourceLanguage": "en",
+  "version": "1.0",
+  "strings": {
+    "Tip: Press ⌘+Enter to add and select the participant.": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Tipp: Drücke ⌘+Enter, um den Teilnehmer hinzuzufügen und auszuwählen."
+          }
+        },
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Consejo: Presiona ⌘+Enter para agregar y seleccionar al participante."
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Astuce : Appuyez sur ⌘+Entrée pour ajouter et sélectionner le participant."
+          }
+        },
+        "hi": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "सुझाव: प्रेस ⌘+Enter करें ताकि प्रतिभागी जोड़ें और चुनें।"
+          }
+        },
+        "id": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Tip: Tekan ⌘+Enter untuk menambahkan dan memilih peserta."
+          }
+        },
+        "it": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Suggerimento: Premi ⌘+Invio per aggiungere e selezionare il partecipante."
+          }
+        },
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Tip: ⌘+Enter を押して参加者を追加および選択します。"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "팁: 참가자를 추가하고 선택하려면 ⌘+Enter를 누르세요."
+          }
+        },
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Tip: Druk op ⌘+Enter om de deelnemer toe te voegen en te selecteren."
+          }
+        },
+        "pl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Wskazówka: Naciśnij ⌘+Enter, aby dodać i wybrać uczestnika."
+          }
+        },
+        "pt-BR": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Dica: Pressione ⌘+Enter para adicionar e selecionar o participante."
+          }
+        },
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Совет: Нажмите ⌘+Enter, чтобы добавить и выбрать участника."
+          }
+        },
+        "th": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "เคล็ดลับ: กด ⌘+Enter เพื่อเพิ่มและเลือกผู้เข้าร่วม"
+          }
+        },
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "İpucu: Katılımcı eklemek ve seçmek için ⌘+Enter tuşlarına basın."
+          }
+        },
+        "uk": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Порада: Натисніть ⌘+Enter, щоб додати та вибрати учасника."
+          }
+        },
+        "vi": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Mẹo: Nhấn ⌘+Enter để thêm và chọn người tham gia."
+          }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "提示：按⌘+Enter键添加并选择参与者。"
+          }
+        },
+        "zh-Hant": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "提示：按下 ⌘+Enter 以新增並選取參與者。"
+          }
+        }
+      }
+    }
+  }
+}

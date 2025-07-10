@@ -1,0 +1,119 @@
+{
+  "sourceLanguage": "en",
+  "version": "1.0",
+  "strings": {
+    "OpenRouter API key should start with 'sk-or-'": {
+      "comment": "Error shown when OpenRouter API key has incorrect prefix",
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Der OpenRouter-API-Schlüssel sollte mit 'sk-or-' beginnen."
+          }
+        },
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "La clave de API de OpenRouter debe comenzar con 'sk-or-'."
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "La clé API OpenRouter doit commencer par 'sk-or-'."
+          }
+        },
+        "hi": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "OpenRouter API कुंजी 'sk-or-' से शुरू होनी चाहिए।"
+          }
+        },
+        "id": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Kunci API OpenRouter harus dimulai dengan 'sk-or-'."
+          }
+        },
+        "it": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "La chiave API di OpenRouter dovrebbe iniziare con 'sk-or-'."
+          }
+        },
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "OpenRouter APIキーは'sk-or-'で始まる必要があります。"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "OpenRouter API 키는 'sk-or-'로 시작해야합니다."
+          }
+        },
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "OpenRouter API-sleutel moet beginnen met 'sk-or-'."
+          }
+        },
+        "pl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Klucz API OpenRouter powinien zaczynać się od „sk-or-”."
+          }
+        },
+        "pt-BR": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "A chave da API do OpenRouter deve começar com 'sk-or-'."
+          }
+        },
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Ключ API OpenRouter должен начинаться с 'sk-or-'."
+          }
+        },
+        "th": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "คีย์ API OpenRouter ควรเริ่มต้นด้วย 'sk-or-'"
+          }
+        },
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "OpenRouter API anahtarı 'sk-or-' ile başlamalıdır."
+          }
+        },
+        "uk": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Ключ API OpenRouter повинен починатися з 'sk-or-'."
+          }
+        },
+        "vi": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Khóa API OpenRouter phải bắt đầu bằng 'sk-or-'."
+          }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "OpenRouter API 密钥应以'sk-or-'开头。"
+          }
+        },
+        "zh-Hant": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "OpenRouter API 金鑰應該以 'sk-or-' 開頭。"
+          }
+        }
+      }
+    }
+  }
+}

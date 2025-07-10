@@ -1,0 +1,118 @@
+{
+  "sourceLanguage": "en",
+  "version": "1.0",
+  "strings": {
+    "Automatically rename the transcript based on meeting details or content after transcription is complete.": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Automatisch den Transkriptnamen basierend auf den Besprechungsdetails oder -inhalten nach Abschluss der Transkription umbenennen."
+          }
+        },
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Cambiar automáticamente el nombre de la transcripción según los detalles o el contenido de la reunión una vez que la transcripción esté completa."
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Renommer automatiquement la transcription en fonction des détails de la réunion ou du contenu une fois la transcription terminée."
+          }
+        },
+        "hi": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "स्वचालित रूप से ट्रांसक्रिप्ट का नाम सम्मेलन विवरण या सामग्री के आधार पर पूर्ण ट्रांसक्रिप्टन के बाद बदलें।"
+          }
+        },
+        "id": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Secara otomatis mengubah nama transkrip berdasarkan detail atau konten pertemuan setelah transkripsi selesai."
+          }
+        },
+        "it": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Rinomina automaticamente la trascrizione in base ai dettagli o al contenuto della riunione dopo il completamento della trascrizione."
+          }
+        },
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "トランスクリプトが完了した後、会議の詳細や内容に基づいて自動的にトランスクリプトの名前を変更します。"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "회의 내용 또는 내용에 따라 자동으로 회의록을 완료한 후 이름을 변경합니다."
+          }
+        },
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Automatisch de transcriptie hernoemen op basis van vergaderdetails of inhoud nadat de transcriptie is voltooid."
+          }
+        },
+        "pl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Automatycznie zmień nazwę transkrypcji na podstawie szczegółów spotkania lub treści po zakończeniu transkrypcji."
+          }
+        },
+        "pt-BR": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Renomear automaticamente a transcrição com base nos detalhes ou conteúdo da reunião após a conclusão da transcrição."
+          }
+        },
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Автоматически переименовать транскрипт на основе деталей встречи или содержания после завершения транскрипции."
+          }
+        },
+        "th": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "โปรแกรมจะเปลี่ยนชื่อ transcript โดยอัตโนมัติตามรายละเอียดหรือเนื้อหาของการประชุมหลังจากทำการ transcribe เสร็จสมบูรณ์แล้ว"
+          }
+        },
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Transkripsiyon tamamlandıktan sonra toplantı detaylarına veya içeriğine göre transkripti otomatik olarak yeniden adlandırın."
+          }
+        },
+        "uk": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Автоматично перейменуйте транскрипцію на основі деталей або вмісту зустрічі після завершення транскрипції."
+          }
+        },
+        "vi": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Tự động đổi tên bản ghi dựa trên chi tiết hoặc nội dung cuộc họp sau khi hoàn tất việc chuyển văn bản."
+          }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "在转录完成后，根据会议详情或内容自动重命名转录。"
+          }
+        },
+        "zh-Hant": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "在轉錄完成後，根據會議細節或內容自動重新命名文字記錄。"
+          }
+        }
+      }
+    }
+  }
+}

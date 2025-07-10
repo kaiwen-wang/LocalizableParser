@@ -1,0 +1,119 @@
+{
+  "sourceLanguage": "en",
+  "version": "1.0",
+  "strings": {
+    "Ollama server not found at given URL. Please check the URL or make sure Ollama is running.": {
+      "comment": "Error shown when Ollama server cannot be reached",
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Ollama-Server nicht unter der angegebenen URL gefunden. Bitte überprüfen Sie die URL oder stellen Sie sicher, dass Ollama läuft."
+          }
+        },
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Servidor de Ollama no encontrado en la URL proporcionada. Por favor, verifica la URL o asegúrate de que Ollama esté en funcionamiento."
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Serveur Ollama introuvable à l'URL donnée. Veuillez vérifier l'URL ou vous assurer qu'Ollama est en cours d'exécution."
+          }
+        },
+        "hi": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Ollama सर्वर दिए गए URL पर नहीं मिला। कृपया URL की जाँच करें या सुनिश्चित करें कि Ollama चल रहा है।"
+          }
+        },
+        "id": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Server Ollama tidak ditemukan di URL yang diberikan. Harap periksa URL atau pastikan Ollama sedang berjalan."
+          }
+        },
+        "it": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Server Ollama non trovato all'URL fornito. Controlla l'URL o assicurati che Ollama sia in esecuzione."
+          }
+        },
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "指定されたURLでOllamaサーバーが見つかりません。URLを確認するか、Ollamaが実行されていることを確認してください。"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "주어진 URL에서 Ollama 서버를 찾을 수 없습니다. URL을 확인하거나 Ollama가 실행 중인지 확인하십시오."
+          }
+        },
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Ollama-server niet gevonden op opgegeven URL. Controleer de URL of zorg ervoor dat Ollama actief is."
+          }
+        },
+        "pl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Serwer Ollama nie został znaleziony pod podanym adresem URL. Sprawdź adres URL lub upewnij się, że Ollama jest uruchomiona."
+          }
+        },
+        "pt-BR": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Servidor Ollama não encontrado no URL fornecido. Por favor, verifique o URL ou certifique-se de que o Ollama está em execução."
+          }
+        },
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Сервер Ollama не найден по указанному URL. Пожалуйста, проверьте URL или убедитесь, что Ollama запущен."
+          }
+        },
+        "th": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "เซิร์ฟเวอร์ Ollama ไม่พบที่ URL ที่ระบุ โปรดตรวจสอบ URL หรือตรวจสอบว่า Ollama กำลังทำงานอยู่หรือไม่"
+          }
+        },
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Verilen URL'de Ollama sunucusu bulunamadı. Lütfen URL'yi kontrol edin veya Ollama'nın çalıştığından emin olun."
+          }
+        },
+        "uk": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Сервер Ollama не знайдено за вказаною URL-адресою. Будь ласка, перевірте URL-адресу або переконайтеся, що Ollama працює."
+          }
+        },
+        "vi": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Máy chủ Ollama không được tìm thấy tại URL đã cho. Vui lòng kiểm tra URL hoặc đảm bảo rằng Ollama đang chạy."
+          }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "在给定的URL上找不到Ollama服务器。 请检查URL或确保Ollama正在运行。"
+          }
+        },
+        "zh-Hant": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "在給定的URL找不到Ollama伺服器。請檢查URL或確保Ollama正在運行。"
+          }
+        }
+      }
+    }
+  }
+}

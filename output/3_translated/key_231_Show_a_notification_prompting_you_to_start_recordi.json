@@ -1,0 +1,118 @@
+{
+  "sourceLanguage": "en",
+  "version": "1.0",
+  "strings": {
+    "Show a notification prompting you to start recording when a calendar meeting is detected.": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Zeigen Sie eine Benachrichtigung an, die Sie auffordert, mit der Aufnahme zu beginnen, wenn ein Kalendertreffen erkannt wird."
+          }
+        },
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Mostrar una notificación que te invite a comenzar a grabar cuando se detecte una reunión en el calendario."
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Afficher une notification vous incitant à commencer l'enregistrement lorsqu'une réunion de calendrier est détectée."
+          }
+        },
+        "hi": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "कैलेंडर मीटिंग का पता लगाया जाता है तो आपको रिकॉर्डिंग शुरू करने के लिए एक अधिसूचना दिखाएं।"
+          }
+        },
+        "id": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Tampilkan pemberitahuan untuk mulai merekam ketika pertemuan kalender terdeteksi."
+          }
+        },
+        "it": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Mostra una notifica che ti invita a iniziare la registrazione quando viene rilevato un meeting nel calendario."
+          }
+        },
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "カレンダーミーティングが検出されたときに録画を開始するように通知を表示します。"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "캘린더 회의가 감지되면 녹화를 시작하도록 알림을 표시합니다."
+          }
+        },
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Toon een melding om u aan te moedigen met opnemen te beginnen wanneer een kalendervergadering wordt gedetecteerd."
+          }
+        },
+        "pl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Pokaż powiadomienie zachęcające do rozpoczęcia nagrywania, gdy wykryte zostanie spotkanie kalendarzowe."
+          }
+        },
+        "pt-BR": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Mostrar uma notificação solicitando que você comece a gravar quando uma reunião do calendário for detectada."
+          }
+        },
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Показать уведомление, предлагающее начать запись, когда обнаружено календарное событие."
+          }
+        },
+        "th": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "แสดงการแจ้งเตือนเพื่อให้คุณเริ่มบันทึกเมื่อตรวจพบการประชุมในปฏิทิน."
+          }
+        },
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Bir takvim toplantısı algılandığında kayıt yapmaya başlamanızı isteyen bir bildirim gösterin."
+          }
+        },
+        "uk": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Показати сповіщення, що підтримує вас почати запис, коли виявлено календарну зустріч."
+          }
+        },
+        "vi": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Hiển thị thông báo yêu cầu bạn bắt đầu ghi âm khi phát hiện cuộc họp trong lịch."
+          }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "检测到日历会议时显示通知提示您开始录制。"
+          }
+        },
+        "zh-Hant": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "當偵測到行事曆會議時，顯示提示通知您開始錄製。"
+          }
+        }
+      }
+    }
+  }
+}

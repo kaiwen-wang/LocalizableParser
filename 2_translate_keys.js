@@ -18,6 +18,12 @@ const openai = new OpenAI({
 // Helper to prevent hitting API rate limits
 const sleep = (ms) => new Promise(resolve => setTimeout(resolve, ms));
 
+// Helper function to extract the key number from a filename
+const extractKeyNumber = (filename) => {
+    const match = filename.match(/^key_(\d+)_/);
+    return match ? parseInt(match[1], 10) : 0;
+};
+
 // --- Main Logic ---
 async function translateKeys() {
     console.log(`\n--- Running Script 2: Translating Keys ---`);
@@ -36,14 +42,16 @@ async function translateKeys() {
         fs.mkdirSync(TRANSLATED_DIR, { recursive: true });
     }
 
-    const filesToTranslate = fs.readdirSync(NEEDS_TRANSLATION_DIR).filter(f => f.endsWith('.json'));
+    let filesToTranslate = fs.readdirSync(NEEDS_TRANSLATION_DIR).filter(f => f.endsWith('.json'));
 
     if (filesToTranslate.length === 0) {
         console.log("No files found in the translation directory. Nothing to do.");
         return;
     }
 
-    console.log(`Found ${filesToTranslate.length} keys to translate...`);
+    filesToTranslate.sort((a, b) => extractKeyNumber(a) - extractKeyNumber(b));
+
+    console.log(`Found ${filesToTranslate.length} keys to translate (processing in numerical order)...`);
 
     for (const file of filesToTranslate) {
         const filePath = path.join(NEEDS_TRANSLATION_DIR, file);
@@ -55,22 +63,31 @@ async function translateKeys() {
         const sourceLang = data.sourceLanguage;
         const missingLangs = data._meta.missingLangs;
 
-        console.log(`\nProcessing key: "${key.replace(/\n/g, "\\n")}"`);
+        // --- NEW: Better logging with Key Number ---
+        const keyNumber = extractKeyNumber(file);
+        console.log(`\nProcessing Key #${keyNumber} (${file})`);
+        console.log(`  Text: "${key.replace(/\n/g, "\\n")}"`);
+        if (stringEntry.comment) {
+            console.log(`  Comment: "${stringEntry.comment.replace(/\n/g, " ")}"`);
+        }
         console.log(`  Missing languages: ${missingLangs.join(', ')}`);
 
-        // ===================================================================
-        //  THE FIX IS HERE
-        // ===================================================================
-        // Ensure the 'localizations' object exists before we try to add to it.
         if (!stringEntry.localizations) {
             console.log("  -> Initializing 'localizations' object for this new key.");
             stringEntry.localizations = {};
         }
-        // ===================================================================
 
         for (const langCode of missingLangs) {
             try {
-                const prompt = `Translate the following text for an iOS app from ${sourceLang} to the language with code '${langCode}'. The text is: "${sourceText}". Your response should ONLY contain the translated string, with no additional explanation, commentary, or quotation marks. Preserve placeholders like '%@', '%d', and '%1$@' exactly as they are.`;
+                // --- NEW: Dynamically build the prompt, including the comment if it exists ---
+                let prompt = `Translate the following text for an iOS app from ${sourceLang} to the language with code '${langCode}'. The text to translate is: "${sourceText}".`;
+
+                if (stringEntry.comment) {
+                    const cleanComment = stringEntry.comment.replace(/"/g, '\\"').replace(/\n/g, ' ');
+                    prompt += ` A helpful comment for context is: "${cleanComment}".`;
+                }
+
+                prompt += ` Your response should ONLY contain the translated string, with no additional explanation, commentary, or quotation marks. Preserve placeholders like '%@', '%d', and '%1$@' exactly as they are.`;
 
                 const response = await openai.chat.completions.create({
                     model: OPENAI_MODEL,
@@ -81,7 +98,6 @@ async function translateKeys() {
                 const translation = response.choices[0].message.content.trim();
                 console.log(`  [${langCode}] -> "${translation}"`);
 
-                // This line will now work correctly every time.
                 stringEntry.localizations[langCode] = {
                     stringUnit: {
                         state: "translated",

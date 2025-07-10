@@ -1,0 +1,118 @@
+{
+  "sourceLanguage": "en",
+  "version": "1.0",
+  "strings": {
+    "Presentation Mode: No active item selected for transcription.": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Präsentationsmodus: Kein aktives Element für die Transkription ausgewählt."
+          }
+        },
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Modo de presentación: No se ha seleccionado ningún elemento activo para transcripción."
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Mode Présentation : Aucun élément actif sélectionné pour la transcription."
+          }
+        },
+        "hi": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "प्रस्तुति मोड: लेखन के लिए कोई सक्रिय आइटम चयनित नहीं है।"
+          }
+        },
+        "id": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Mode Presentasi: Tidak ada item aktif yang dipilih untuk transkripsi."
+          }
+        },
+        "it": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Modalità presentazione: Nessun elemento attivo selezionato per la trascrizione."
+          }
+        },
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "プレゼンテーションモード：転写のためにアクティブなアイテムが選択されていません。"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "프레젠테이션 모드: 전사에 대한 활성 항목이 선택되지 않았습니다."
+          }
+        },
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Presentatiemodus: Geen actief item geselecteerd voor transcriptie."
+          }
+        },
+        "pl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Tryb prezentacji: Nie wybrano aktywnego elementu do transkrypcji."
+          }
+        },
+        "pt-BR": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Modo de Apresentação: Nenhum item ativo selecionado para transcrição."
+          }
+        },
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Режим презентации: Нет выбранного активного элемента для транскрипции."
+          }
+        },
+        "th": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "โหมดการนำเสนอ: ไม่มีรายการที่เลือกใช้งานสำหรับการคัดลอกเสียงพิมพ์."
+          }
+        },
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Sunum Modu: Transkripsiyon için seçili bir öğe yok."
+          }
+        },
+        "uk": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Режим презентації: Не вибрано активний елемент для транскрипції."
+          }
+        },
+        "vi": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Chế độ Trình bày: Không có mục hoạt động nào được chọn để chuyển thành văn bản."
+          }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "演示模式：未选择要转录的活动项目。"
+          }
+        },
+        "zh-Hant": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "演示模式：未選擇要轉錄的活動項目。"
+          }
+        }
+      }
+    }
+  }
+}

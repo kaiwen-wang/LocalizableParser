@@ -1,0 +1,119 @@
+{
+  "sourceLanguage": "en",
+  "version": "1.0",
+  "strings": {
+    "No models found via OpenAI or API key is invalid.": {
+      "comment": "Error for no OpenAI models",
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Keine Modelle über OpenAI gefunden oder API-Schlüssel ungültig."
+          }
+        },
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "No se encontraron modelos a través de OpenAI o la clave de API es inválida."
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Aucun modèle trouvé via OpenAI ou la clé API est invalide."
+          }
+        },
+        "hi": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "कोई मॉडल ओपनएआई या एपीआई कुंजी के माध्यम से नहीं मिला।"
+          }
+        },
+        "id": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Tidak ada model yang ditemukan melalui OpenAI atau kunci API tidak valid."
+          }
+        },
+        "it": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Nessun modello trovato tramite OpenAI o la chiave API non è valida."
+          }
+        },
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "OpenAIまたはAPIキーを使用してモデルが見つかりません。"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "OpenAI 또는 API 키를 통해 모델을 찾을 수 없습니다."
+          }
+        },
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Geen modellen gevonden via OpenAI of API-sleutel is ongeldig."
+          }
+        },
+        "pl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Nie znaleziono modeli za pomocą OpenAI lub klucz API jest nieprawidłowy."
+          }
+        },
+        "pt-BR": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Nenhum modelo encontrado via OpenAI ou chave da API é inválida."
+          }
+        },
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Модели не найдены через OpenAI или ключ API недействителен."
+          }
+        },
+        "th": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "ไม่พบโมเดลผ่าน OpenAI หรือ API key ไม่ถูกต้อง"
+          }
+        },
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "OpenAI veya API anahtarı ile hiçbir model bulunamadı."
+          }
+        },
+        "uk": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Моделі не знайдено через OpenAI або недійсний ключ API."
+          }
+        },
+        "vi": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Không tìm thấy mô hình thông qua OpenAI hoặc khóa API không hợp lệ."
+          }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "在OpenAI中找不到模型或API密钥无效。"
+          }
+        },
+        "zh-Hant": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "在 OpenAI 或 API 金鑰中找不到模型。"
+          }
+        }
+      }
+    }
+  }
+}

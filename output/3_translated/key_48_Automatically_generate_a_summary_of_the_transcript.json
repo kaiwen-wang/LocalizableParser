@@ -1,0 +1,118 @@
+{
+  "sourceLanguage": "en",
+  "version": "1.0",
+  "strings": {
+    "Automatically generate a summary of the transcript after transcription is complete.": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Automatisch eine Zusammenfassung des Transkripts generieren, nachdem die Transkription abgeschlossen ist."
+          }
+        },
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Generar automáticamente un resumen de la transcripción una vez que esta esté completa."
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Générer automatiquement un résumé de la transcription une fois celle-ci terminée."
+          }
+        },
+        "hi": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "प्रतिलिपि पूर्ण होने के बाद स्वचालित रूप से सारांश उत्पन्न करें।"
+          }
+        },
+        "id": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Secara otomatis menghasilkan ringkasan transkrip setelah transkripsi selesai."
+          }
+        },
+        "it": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Genera automaticamente un riassunto della trascrizione una volta completata."
+          }
+        },
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "トランスクリプトが完了した後、要約を自動生成します。"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "번역이 완료되면 자동으로 열람 요약을 생성합니다."
+          }
+        },
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Automatisch een samenvatting genereren van het transcript nadat de transcriptie is voltooid."
+          }
+        },
+        "pl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Automatycznie generuj podsumowanie transkrypcji po jej zakończeniu."
+          }
+        },
+        "pt-BR": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Gerar automaticamente um resumo da transcrição após a conclusão da transcrição."
+          }
+        },
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Автоматически создавайте резюме транскрипции после завершения транскрибации."
+          }
+        },
+        "th": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "สร้างสรุปของบันทึกเสียงโดยอัตโนมัติหลังจากการถอดรหัสเสร็จสมบูรณ์แล้ว"
+          }
+        },
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Transkripsiyon tamamlandıktan sonra özet oluşturun."
+          }
+        },
+        "uk": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Автоматично створюйте підсумок транскрипції після завершення транскрипції."
+          }
+        },
+        "vi": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Tự động tạo bản tóm tắt của bản ghi âm sau khi việc chuyển văn bản hoàn tất."
+          }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "在转录完成后自动生成摘要。"
+          }
+        },
+        "zh-Hant": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "在轉錄完成後自動生成摘要。"
+          }
+        }
+      }
+    }
+  }
+}

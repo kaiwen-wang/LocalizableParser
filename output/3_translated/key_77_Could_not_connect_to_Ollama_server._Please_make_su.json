@@ -1,0 +1,119 @@
+{
+  "sourceLanguage": "en",
+  "version": "1.0",
+  "strings": {
+    "Could not connect to Ollama server. Please make sure Ollama is running.": {
+      "comment": "Error shown when connection to Ollama server is refused",
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Konnte keine Verbindung zum Ollama-Server herstellen. Stellen Sie bitte sicher, dass Ollama läuft."
+          }
+        },
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "No se pudo conectar al servidor de Ollama. Por favor, asegúrate de que Ollama esté en funcionamiento."
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Impossible de se connecter au serveur Ollama. Veuillez vous assurer qu'Ollama est en cours d'exécution."
+          }
+        },
+        "hi": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Ollama सर्वर से कनेक्ट नहीं कर सका। कृपया सुनिश्चित करें कि Ollama चल रहा है।"
+          }
+        },
+        "id": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Tidak dapat terhubung ke server Ollama. Pastikan Ollama sedang berjalan."
+          }
+        },
+        "it": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Impossibile connettersi al server di Ollama. Assicurati che Ollama sia in esecuzione."
+          }
+        },
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Ollamaサーバーに接続できませんでした。Ollamaが実行されていることを確認してください。"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Ollama 서버에 연결할 수 없습니다. Ollama가 실행 중인지 확인해주세요."
+          }
+        },
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Kon geen verbinding maken met de Ollama-server. Zorg ervoor dat Ollama actief is."
+          }
+        },
+        "pl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Nie można połączyć się z serwerem Ollama. Upewnij się, że Ollama działa."
+          }
+        },
+        "pt-BR": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Não foi possível conectar ao servidor Ollama. Por favor, certifique-se de que o Ollama está em execução."
+          }
+        },
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Не удалось подключиться к серверу Ollama. Пожалуйста, убедитесь, что Ollama запущен."
+          }
+        },
+        "th": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "ไม่สามารถเชื่อมต่อกับเซิร์ฟเวอร์ Ollama ได้ โปรดตรวจสอบว่า Ollama กำลังทำงานอยู่หรือไม่"
+          }
+        },
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Ollama sunucusuna bağlanılamadı. Lütfen Ollama'nın çalıştığından emin olun."
+          }
+        },
+        "uk": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Не вдалося підключитися до сервера Ollama. Будь ласка, переконайтеся, що Ollama працює."
+          }
+        },
+        "vi": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Không thể kết nối với máy chủ Ollama. Vui lòng đảm bảo rằng Ollama đang chạy."
+          }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "无法连接到Ollama服务器。请确保Ollama正在运行。"
+          }
+        },
+        "zh-Hant": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "無法連接到 Ollama 伺服器。請確保 Ollama 正在運行。"
+          }
+        }
+      }
+    }
+  }
+}

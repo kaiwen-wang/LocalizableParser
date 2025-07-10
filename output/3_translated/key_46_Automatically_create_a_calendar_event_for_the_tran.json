@@ -1,0 +1,118 @@
+{
+  "sourceLanguage": "en",
+  "version": "1.0",
+  "strings": {
+    "Automatically create a calendar event for the transcribed meeting.": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Automatisch ein Kalenderereignis für das transkribierte Meeting erstellen."
+          }
+        },
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Crear automáticamente un evento de calendario para la reunión transcrito."
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Créer automatiquement un événement de calendrier pour la réunion transcrite."
+          }
+        },
+        "hi": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "\"स्वचालित रूप से ट्रांसक्राइब की गई मीटिंग के लिए एक कैलेंडर घटना बनाएं।\""
+          }
+        },
+        "id": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Secara otomatis membuat acara kalender untuk pertemuan yang ditranskripsi."
+          }
+        },
+        "it": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Creare automaticamente un evento nel calendario per la riunione trascritta."
+          }
+        },
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "トランスクライブされた会議のために自動的にカレンダーイベントを作成します。"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "회의 내용을 전사한 후 자동으로 캘린더 이벤트를 생성합니다."
+          }
+        },
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Automatisch een kalenderevenement maken voor de getranscribeerde vergadering."
+          }
+        },
+        "pl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Automatycznie utwórz wydarzenie kalendarza dla spisanej konferencji."
+          }
+        },
+        "pt-BR": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Criar automaticamente um evento de calendário para a reunião transcrita."
+          }
+        },
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Автоматически создавайте событие календаря для транскрибированного собрания."
+          }
+        },
+        "th": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "สร้างกิจกรรมปฏิทินโดยอัตโนมัติสำหรับการประชุมที่ถูกคัดลอกไว้"
+          }
+        },
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Toplantının transkripti için otomatik olarak bir takvim etkinliği oluşturun."
+          }
+        },
+        "uk": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Автоматично створити подію календаря для транскрибованої зустрічі."
+          }
+        },
+        "vi": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Tự động tạo sự kiện lịch cho cuộc họp đã được ghi âm."
+          }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "为转录的会议自动创建日历事件。"
+          }
+        },
+        "zh-Hant": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "自動為轉錄的會議創建日曆事件。"
+          }
+        }
+      }
+    }
+  }
+}

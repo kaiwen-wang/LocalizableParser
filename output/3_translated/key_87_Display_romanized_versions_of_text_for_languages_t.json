@@ -1,0 +1,118 @@
+{
+  "sourceLanguage": "en",
+  "version": "1.0",
+  "strings": {
+    "Display romanized versions of text for languages that support it.": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Zeigen Sie die romanisierten Versionen von Texten für Sprachen, die dies unterstützen."
+          }
+        },
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Mostrar versiones romanizadas del texto para idiomas que lo admitan."
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Afficher les versions romanisées du texte pour les langues qui le prennent en charge."
+          }
+        },
+        "hi": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "उस भाषाओं के लिए पाठ के रोमनीकरण संस्करण प्रदर्शित करें जो इसे समर्थन करती हैं।"
+          }
+        },
+        "id": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Tampilkan versi romanisasi teks untuk bahasa yang mendukungnya."
+          }
+        },
+        "it": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Mostra le versioni romanizzate del testo per le lingue che lo supportano."
+          }
+        },
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "サポートされている言語のテキストのローマ字バージョンを表示します。"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "지원하는 언어의 텍스트에 대한 로마자 버전을 표시합니다."
+          }
+        },
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Toon geromaniseerde versies van tekst voor talen die dit ondersteunen."
+          }
+        },
+        "pl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Wyświetl zromanizowane wersje tekstu dla języków, które je obsługują."
+          }
+        },
+        "pt-BR": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Exibir versões romanizadas de texto para idiomas que suportam isso."
+          }
+        },
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Отображение романизированных версий текста для языков, поддерживающих это."
+          }
+        },
+        "th": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "แสดงเวอร์ชันโรมันของข้อความสำหรับภาษาที่รองรับการใช้งานได้"
+          }
+        },
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Desteklediği diller için metnin romanize edilmiş sürümlerini göster."
+          }
+        },
+        "uk": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Показувати романізовані версії тексту для мов, які підтримують це."
+          }
+        },
+        "vi": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Hiển thị phiên bản chuyển phiên âm của văn bản cho các ngôn ngữ hỗ trợ nó."
+          }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "显示支持罗马化版本的文本。"
+          }
+        },
+        "zh-Hant": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "顯示支援羅馬拼音版本的語言的文本。"
+          }
+        }
+      }
+    }
+  }
+}

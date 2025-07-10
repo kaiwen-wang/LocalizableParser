@@ -1,0 +1,118 @@
+{
+  "sourceLanguage": "en",
+  "version": "1.0",
+  "strings": {
+    "Please check back later or contact support if you believe this is an error.": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Bitte überprüfen Sie später erneut oder kontaktieren Sie den Support, wenn Sie glauben, dass dies ein Fehler ist."
+          }
+        },
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Por favor, vuelva más tarde o contacte con soporte si cree que esto es un error."
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Veuillez vérifier ultérieurement ou contacter le support si vous pensez qu'il s'agit d'une erreur."
+          }
+        },
+        "hi": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "कृपया बाद में जांच करें या यदि आपको लगता है कि यह एक त्रुटि है तो समर्थन से संपर्क करें।"
+          }
+        },
+        "id": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Silakan cek kembali nanti atau hubungi dukungan jika Anda percaya ini adalah kesalahan."
+          }
+        },
+        "it": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Si prega di controllare più tardi o contattare il supporto se si ritiene che si tratti di un errore."
+          }
+        },
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "後で再度確認するか、エラーであると思われる場合はサポートに連絡してください。"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "나중에 다시 확인하거나 이것이 오류라고 생각한다면 지원팀에 문의하십시오."
+          }
+        },
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Controleer later opnieuw of neem contact op met ondersteuning als u denkt dat dit een fout is."
+          }
+        },
+        "pl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Sprawdź ponownie później lub skontaktuj się z pomocą techniczną, jeśli uważasz, że to błąd."
+          }
+        },
+        "pt-BR": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Por favor, verifique novamente mais tarde ou entre em contato com o suporte se acredita que isso é um erro."
+          }
+        },
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Пожалуйста, проверьте позже или свяжитесь с поддержкой, если считаете, что это ошибка."
+          }
+        },
+        "th": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "โปรดตรวจสอบอีกครั้งในภายหลังหรือติดต่อฝ่ายสนับสนุนหากคุณเชื่อว่านี่เป็นข้อผิดพลาด ค่ะ"
+          }
+        },
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Lütfen daha sonra tekrar kontrol edin veya bir hata olduğunu düşünüyorsanız destek ile iletişime geçin."
+          }
+        },
+        "uk": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Будь ласка, перевірте пізніше або зверніться до служби підтримки, якщо ви вважаєте, що це помилка."
+          }
+        },
+        "vi": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Vui lòng kiểm tra lại sau hoặc liên hệ hỗ trợ nếu bạn tin rằng đây là một lỗi."
+          }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "请稍后再检查，或者如果您认为这是一个错误，请联系支持。"
+          }
+        },
+        "zh-Hant": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "請稍後再檢查，或者如果您認為這是一個錯誤，請聯繫支援。"
+          }
+        }
+      }
+    }
+  }
+}
