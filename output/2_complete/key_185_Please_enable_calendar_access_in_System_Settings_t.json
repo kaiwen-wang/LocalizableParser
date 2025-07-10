@@ -1,0 +1,118 @@
+{
+  "sourceLanguage": "en",
+  "version": "1.0",
+  "strings": {
+    "Please enable calendar access in System Settings to view and manage events.": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Bitte aktivieren Sie den Kalenderzugriff in den Systemeinstellungen, um Ereignisse anzuzeigen und zu verwalten."
+          }
+        },
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Por favor, habilita el acceso al calendario en la Configuración del Sistema para ver y administrar eventos."
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Veuillez activer l'accès au calendrier dans les Préférences Système pour afficher et gérer les événements."
+          }
+        },
+        "hi": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "कृपया ईवेंट देखने और प्रबंधित करने के लिए सिस्टम सेटिंग्स में कैलेंडर एक्सेस सक्षम करें।"
+          }
+        },
+        "id": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Silakan aktifkan akses kalender di Pengaturan Sistem untuk melihat dan mengelola acara."
+          }
+        },
+        "it": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Abilita l'accesso al calendario nelle Preferenze di Sistema per visualizzare e gestire gli eventi."
+          }
+        },
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "システム設定でカレンダーへのアクセスを有効にして、イベントを表示および管理してください。"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "캘린더에 접근할 수 있도록 시스템 설정에서 설정을 활성화하여 이벤트를 보고 관리하세요."
+          }
+        },
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Schakel kalendertoegang in in Systeeminstellingen om evenementen te bekijken en te beheren."
+          }
+        },
+        "pl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Aby wyświetlać i zarządzać wydarzeniami, włącz dostęp do kalendarza w Ustawieniach systemu."
+          }
+        },
+        "pt-BR": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Habilite o acesso ao calendário nas Configurações do Sistema para visualizar e gerenciar eventos."
+          }
+        },
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Пожалуйста, включите доступ к календарю в Настройках системы, чтобы просматривать и управлять событиями."
+          }
+        },
+        "th": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "โปรดเปิดการเข้าถึงปฏิทินในการตั้งค่าระบบเพื่อดูและจัดการกิจกรรม"
+          }
+        },
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Etkinlikleri görüntülemek ve yönetmek için Takvim erişimini Sistem Ayarlarında etkinleştirin."
+          }
+        },
+        "uk": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Будь ласка, увімкніть доступ до календаря в системних налаштуваннях, щоб переглядати та керувати подіями."
+          }
+        },
+        "vi": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Vui lòng bật quyền truy cập lịch trong Cài đặt Hệ thống để xem và quản lý sự kiện."
+          }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "请在系统设置中启用日历访问权限以查看和管理事件。"
+          }
+        },
+        "zh-Hant": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "請在系統設置中啟用日曆訪問權限以查看和管理事件。"
+          }
+        }
+      }
+    }
+  }
+}

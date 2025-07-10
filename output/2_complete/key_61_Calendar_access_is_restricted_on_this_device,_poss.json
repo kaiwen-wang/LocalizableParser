@@ -1,0 +1,118 @@
+{
+  "sourceLanguage": "en",
+  "version": "1.0",
+  "strings": {
+    "Calendar access is restricted on this device, possibly due to active restrictions such as parental controls.": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Der Kalenderzugriff ist auf diesem Gerät eingeschränkt, möglicherweise aufgrund aktiver Beschränkungen wie elterlicher Kontrolle."
+          }
+        },
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "El acceso al calendario está restringido en este dispositivo, posiblemente debido a restricciones activas, como controles parentales."
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "L'accès au calendrier est restreint sur cet appareil, possiblement en raison de restrictions actives comme le contrôle parental."
+          }
+        },
+        "hi": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "इस डिवाइस पर कैलेंडर तक पहुंच सीमित है, संभवतः सक्रिय प्रतिबंधों जैसे कि पेरेंटल कंट्रोल के कारण।"
+          }
+        },
+        "id": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Akses kalender dibatasi pada perangkat ini, mungkin karena pembatasan aktif seperti kontrol orang tua."
+          }
+        },
+        "it": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "L'accesso al calendario è limitato su questo dispositivo, probabilmente a causa di restrizioni attive, come i controlli parentali."
+          }
+        },
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "このデバイスではカレンダーへのアクセスが制限されています。これは、おそらくペアレンタルコントロールなどのアクティブな制限のためです。"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "이 기기에서는 캘린더 접근이 제한되어 있습니다. 이는 부모 통제와 같은 활성 제한이 원인일 수 있습니다."
+          }
+        },
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Agenda toegang is beperkt op dit apparaat, mogelijk vanwege actieve beperkingen zoals ouderlijk toezicht."
+          }
+        },
+        "pl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Dostęp do kalendarza jest ograniczony na tym urządzeniu, prawdopodobnie z powodu aktywnych ograniczeń, takich jak kontrola rodzicielska."
+          }
+        },
+        "pt-BR": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "O acesso ao calendário está restrito neste dispositivo, possivelmente devido a restrições ativas, como controles parentais."
+          }
+        },
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Доступ к календарю на этом устройстве ограничен, возможно, из-за активных ограничений, таких как родительский контроль."
+          }
+        },
+        "th": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "การเข้าถึงปฏิทินถูกจำกัดบนอุปกรณ์นี้ อาจเนื่องจากข้อจำกัดที่ถูกเปิดใช้ เช่น การควบคุมโดยผู้ปกครอง"
+          }
+        },
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Bu cihazda takvim erişimi kısıtlanmıştır, muhtemelen ebeveyn kontrolleri gibi etkin kısıtlamalardan dolayı."
+          }
+        },
+        "uk": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Доступ до календаря на цьому пристрої обмежено, можливо, через активні обмеження, такі як батьківський контроль."
+          }
+        },
+        "vi": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Truy cập lịch bị hạn chế trên thiết bị này, có thể do hạn chế đang hoạt động như chế độ kiểm soát của phụ huynh."
+          }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "此设备上的日历访问受到限制，可能是由于家长控制等活动的限制。"
+          }
+        },
+        "zh-Hant": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "此設備上的行事曆訪問受到限制，可能是由於啟用的限制措施，例如家長控制。"
+          }
+        }
+      }
+    }
+  }
+}

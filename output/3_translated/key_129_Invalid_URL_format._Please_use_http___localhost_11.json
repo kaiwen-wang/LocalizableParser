@@ -1,0 +1,119 @@
+{
+  "sourceLanguage": "en",
+  "version": "1.0",
+  "strings": {
+    "Invalid URL format. Please use http://localhost:11434 or your custom server URL.": {
+      "comment": "Error shown when URL format is invalid",
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Ungültiges URL-Format. Bitte verwenden Sie http://localhost:11434 oder Ihre benutzerdefinierte Server-URL."
+          }
+        },
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Formato de URL no válido. Por favor, utilice http://localhost:11434 o su URL de servidor personalizado."
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Format d'URL invalide. Veuillez utiliser http://localhost:11434 ou votre URL de serveur personnalisée."
+          }
+        },
+        "hi": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "अमान्य URL प्रारूप। कृपया http://localhost:11434 या अपने कस्टम सर्वर URL का उपयोग करें।"
+          }
+        },
+        "id": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Format URL tidak valid. Harap gunakan http://localhost:11434 atau URL server kustom Anda."
+          }
+        },
+        "it": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Formato URL non valido. Si prega di utilizzare http://localhost:11434 o il proprio URL del server personalizzato."
+          }
+        },
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "無効なURL形式です。http://localhost:11434 またはカスタムサーバーURLを使用してください。"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "잘못된 URL 형식입니다. http://localhost:11434 또는 사용자 정의 서버 URL을 사용하십시오."
+          }
+        },
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Ongeldige URL-indeling. Gebruik alstublieft http://localhost:11434 of uw aangepaste server-URL."
+          }
+        },
+        "pl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Nieprawidłowy format adresu URL. Proszę użyć http://localhost:11434 lub własnego adresu URL serwera."
+          }
+        },
+        "pt-BR": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Formato de URL inválido. Por favor, use http://localhost:11434 ou sua URL de servidor personalizada."
+          }
+        },
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Неверный формат URL. Пожалуйста, используйте http://localhost:11434 или свой собственный URL сервера."
+          }
+        },
+        "th": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "รูปแบบ URL ไม่ถูกต้อง โปรดใช้ http://localhost:11434 หรือ URL เซิร์ฟเวอร์ที่กำหนดเองของคุณ"
+          }
+        },
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Geçersiz URL biçimi. Lütfen http://localhost:11434 veya özel sunucu URL'nizi kullanın."
+          }
+        },
+        "uk": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Недійсний формат URL. Будь ласка, використовуйте http://localhost:11434 або свій власний URL сервера."
+          }
+        },
+        "vi": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Định dạng URL không hợp lệ. Vui lòng sử dụng http://localhost:11434 hoặc URL máy chủ tùy chỉnh của bạn."
+          }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "无效的URL格式。 请使用http://localhost:11434或您的自定义服务器URL。"
+          }
+        },
+        "zh-Hant": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "URL 格式無效。請使用 http://localhost:11434 或您的自訂伺服器 URL。"
+          }
+        }
+      }
+    }
+  }
+}

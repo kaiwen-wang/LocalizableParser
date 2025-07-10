@@ -1,0 +1,118 @@
+{
+  "sourceLanguage": "en",
+  "version": "1.0",
+  "strings": {
+    "Legacy User Simulated: %@ (Click to toggle)": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Legacy-Benutzer simuliert: %@ (Klicken zum Umschalten)"
+          }
+        },
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Usuario heredado simulado: %@ (Haga clic para alternar)"
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Utilisateur hérité simulé: %@ (Cliquez pour basculer)"
+          }
+        },
+        "hi": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "विरासत उपयोगकर्ता अनुकरण: %@ (टॉगल करने के लिए क्लिक करें)"
+          }
+        },
+        "id": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Pengguna Warisan Disimulasikan: %@ (Klik untuk beralih)"
+          }
+        },
+        "it": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Utente Legacy Simulato: %@ (Clicca per attivare/disattivare)"
+          }
+        },
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Legacy User Simulated: %@ (クリックして切り替え)"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Legacy 사용자 시뮬레이션: %@ (전환하려면 클릭)"
+          }
+        },
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Legacy Gebruiker Gesimuleerd: %@ (Klik om te schakelen)"
+          }
+        },
+        "pl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Legacy Użytkownik Symulowany: %@ (Kliknij, aby przełączyć)"
+          }
+        },
+        "pt-BR": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Usuário Legado Simulado: %@ (Clique para alternar)"
+          }
+        },
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Пользователь Legacy имитирован: %@ (Нажмите, чтобы переключить)"
+          }
+        },
+        "th": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "ผู้ใช้เก่าจำลอง: %@ (คลิกเพื่อสลับ)"
+          }
+        },
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Miras Kullanıcı Simüle Edildi: %@ (Değiştirmek için tıklayın)"
+          }
+        },
+        "uk": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Симульований користувач спадщини: %@ (Клацніть, щоб перемкнути)"
+          }
+        },
+        "vi": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Người dùng kế thừa được mô phỏng: %@ (Nhấn để chuyển đổi)"
+          }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "模拟传统用户：%@（点击切换）"
+          }
+        },
+        "zh-Hant": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "模擬遺留使用者：%@（點擊切換）"
+          }
+        }
+      }
+    }
+  }
+}

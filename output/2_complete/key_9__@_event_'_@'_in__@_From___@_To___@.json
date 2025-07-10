@@ -1,0 +1,124 @@
+{
+  "sourceLanguage": "en",
+  "version": "1.0",
+  "strings": {
+    "%@ event '%@' in %@\nFrom: %@\nTo: %@": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%1$@ Ereignis '%2$@' in %3$@\nVon: %4$@\nBis: %5$@"
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "new",
+            "value": "%1$@ event '%2$@' in %3$@\nFrom: %4$@\nTo: %5$@"
+          }
+        },
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%1$@ evento '%2$@' en %3$@\nDe: %4$@\nPara: %5$@"
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%1$@ événement '%2$@' dans %3$@\nDe : %4$@\nÀ : %5$@"
+          }
+        },
+        "hi": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%1$@ कार्यक्रम '%2$@' में %3$@\nसे: %4$@\nतक: %5$@"
+          }
+        },
+        "id": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%1$@ acara '%2$@' di %3$@\nDari: %4$@\nKe: %5$@"
+          }
+        },
+        "it": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%1$@ evento '%2$@' in %3$@\nDa: %4$@\nA: %5$@"
+          }
+        },
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%1$@ イベント '%2$@' に %3$@\n送信元: %4$@\n宛先: %5$@"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%1$@ 이벤트 '%2$@'에서 %3$@\n보낸 사람: %4$@\n받는 사람: %5$@"
+          }
+        },
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%1$@ evenement '%2$@' in %3$@\nVan: %4$@\nAan: %5$@"
+          }
+        },
+        "pl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%1$@ wydarzenie '%2$@' w %3$@\nOd: %4$@\nDo: %5$@"
+          }
+        },
+        "pt-BR": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%1$@ evento '%2$@' em %3$@\nDe: %4$@\nPara: %5$@"
+          }
+        },
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%1$@ событие '%2$@' в %3$@\nОт: %4$@\nК: %5$@"
+          }
+        },
+        "th": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%1$@ เหตุการณ์ '%2$@' ใน %3$@\nจาก: %4$@\nถึง: %5$@"
+          }
+        },
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%1$@ etkinliği '%2$@' %3$@'da\nKimden: %4$@\nKime: %5$@"
+          }
+        },
+        "uk": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%1$@ подія '%2$@' у %3$@\nВід: %4$@\nДо: %5$@"
+          }
+        },
+        "vi": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Sự kiện %1$@ '%2$@' trong %3$@\nTừ: %4$@\nĐến: %5$@"
+          }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%1$@ 事件 '%2$@' 在 %3$@\n来自: %4$@\n至: %5$@"
+          }
+        },
+        "zh-Hant": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%1$@ 事件 '%2$@' 在 %3$@\n来自: %4$@\n至: %5$@"
+          }
+        }
+      }
+    }
+  }
+}

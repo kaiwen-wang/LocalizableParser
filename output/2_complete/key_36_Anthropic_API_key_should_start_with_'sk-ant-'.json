@@ -1,0 +1,119 @@
+{
+  "sourceLanguage": "en",
+  "version": "1.0",
+  "strings": {
+    "Anthropic API key should start with 'sk-ant-'": {
+      "comment": "Error shown when API key has incorrect prefix",
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Anthropic API-Schlüssel sollte mit 'sk-ant-' beginnen."
+          }
+        },
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "La clave de la API de Anthropic debe comenzar con 'sk-ant-'"
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "La clé API d'Anthropic doit commencer par 'sk-ant-'"
+          }
+        },
+        "hi": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Anthropic API कुंजी 'sk-ant-' से शुरू होनी चाहिए।"
+          }
+        },
+        "id": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Kunci API Anthropic harus dimulai dengan 'sk-ant-'"
+          }
+        },
+        "it": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "La chiave API di Anthropic dovrebbe iniziare con 'sk-ant-'"
+          }
+        },
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Anthropic APIキーは「sk-ant-」で始まる必要があります。"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Anthropic API 키는 'sk-ant-'로 시작해야 합니다."
+          }
+        },
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Anthropic API-sleutel moet beginnen met 'sk-ant-'"
+          }
+        },
+        "pl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Klucz API Anthropic powinien zaczynać się od „sk-ant-”"
+          }
+        },
+        "pt-BR": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "A chave da API da Anthropic deve começar com 'sk-ant-'"
+          }
+        },
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Ключ API Anthropic должен начинаться с 'sk-ant-'"
+          }
+        },
+        "th": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "คีย์ API ของ Anthropic ควรเริ่มต้นด้วย 'sk-ant-'"
+          }
+        },
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Anthropic API anahtarı 'sk-ant-' ile başlamalıdır."
+          }
+        },
+        "uk": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Ключ API Anthropic має починатися з 'sk-ant-'"
+          }
+        },
+        "vi": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Khóa API Anthropic nên bắt đầu bằng 'sk-ant-'"
+          }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Anthropic API 密钥应以“sk-ant-”开头。"
+          }
+        },
+        "zh-Hant": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Anthropic API 金鑰應該以 'sk-ant-' 開頭。"
+          }
+        }
+      }
+    }
+  }
+}

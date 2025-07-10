@@ -1,0 +1,118 @@
+{
+  "sourceLanguage": "en",
+  "version": "1.0",
+  "strings": {
+    "Add words or phrases to improve speech recognition accuracy": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Fügen Sie Wörter oder Phrasen hinzu, um die Genauigkeit der Spracherkennung zu verbessern."
+          }
+        },
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Añadir palabras o frases para mejorar la precisión del reconocimiento del habla"
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Ajoutez des mots ou des phrases pour améliorer la précision de la reconnaissance vocale."
+          }
+        },
+        "hi": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "भाषण मान्यता सटीकता में सुधार के लिए शब्दों या वाक्यांशों को जोड़ें।"
+          }
+        },
+        "id": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Tambahkan kata atau frasa untuk meningkatkan akurasi pengenalan suara"
+          }
+        },
+        "it": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Aggiungi parole o frasi per migliorare l'accuratezza del riconoscimento vocale."
+          }
+        },
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "音声認識の精度を向上させるために、語彙やフレーズを追加します。"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "음성 인식 정확도를 향상시키기 위해 단어 또는 구문 추가"
+          }
+        },
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Woorden of zinnen toevoegen om de nauwkeurigheid van de spraakherkenning te verbeteren."
+          }
+        },
+        "pl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Dodaj słowa lub zwroty, aby poprawić dokładność rozpoznawania mowy."
+          }
+        },
+        "pt-BR": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Adicione palavras ou frases para melhorar a precisão do reconhecimento de fala"
+          }
+        },
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Добавьте слова или фразы для повышения точности распознавания речи."
+          }
+        },
+        "th": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "เพิ่มคำหรือวลีเพื่อปรับปรุงความแม่นยำในการรู้จำคำพูด"
+          }
+        },
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Konuşma tanıma doğruluğunu artırmak için kelimeler veya ifadeler ekleyin."
+          }
+        },
+        "uk": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Додайте слова чи фрази для покращення точності розпізнавання мови."
+          }
+        },
+        "vi": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Thêm từ ngữ hoặc cụm từ để cải thiện độ chính xác nhận dạng giọng nói"
+          }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "添加单词或短语以提高语音识别准确性"
+          }
+        },
+        "zh-Hant": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "添加詞語或短語以提高語音識別準確性"
+          }
+        }
+      }
+    }
+  }
+}

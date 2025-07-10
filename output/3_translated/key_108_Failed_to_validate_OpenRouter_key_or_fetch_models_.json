@@ -1,0 +1,119 @@
+{
+  "sourceLanguage": "en",
+  "version": "1.0",
+  "strings": {
+    "Failed to validate OpenRouter key or fetch models: %@": {
+      "comment": "OpenRouter key/model fetch error",
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Fehler beim Validieren des OpenRouter-Schlüssels oder beim Abrufen von Modellen: %@."
+          }
+        },
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Error al validar la clave de OpenRouter o recuperar los modelos: %@."
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Échec de la validation de la clé OpenRouter ou de la récupération des modèles: %@."
+          }
+        },
+        "hi": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "OpenRouter कुंजी को सत्यापित करने में विफल रहा या मॉडल प्राप्त करने में विफल रहा: %@।"
+          }
+        },
+        "id": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Gagal memvalidasi kunci OpenRouter atau mengambil model: %@"
+          }
+        },
+        "it": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Impossibile convalidare la chiave OpenRouter o recuperare i modelli: %@."
+          }
+        },
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "OpenRouterキーの検証に失敗したか、モデルを取得できませんでした: %@。"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "OpenRouter 키를 유효성 검사하거나 모델을 가져오는 데 실패했습니다: %@."
+          }
+        },
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Kon OpenRouter-sleutel niet valideren of modellen ophalen: %@."
+          }
+        },
+        "pl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Nie udało się zweryfikować klucza OpenRouter lub pobrać modeli: %@."
+          }
+        },
+        "pt-BR": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Falha ao validar a chave do OpenRouter ou buscar modelos: %@."
+          }
+        },
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Не удалось проверить ключ OpenRouter или получить модели: %@."
+          }
+        },
+        "th": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "การตรวจสอบคีย์ OpenRouter หรือดึงโมเดลไม่สำเร็จ: %@"
+          }
+        },
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "OpenRouter anahtarını doğrulayamadı veya modelleri alamadı: %@."
+          }
+        },
+        "uk": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Не вдалося перевірити ключ OpenRouter або отримати моделі: %@."
+          }
+        },
+        "vi": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Không thể xác minh khóa OpenRouter hoặc lấy các mô hình: %@."
+          }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "验证OpenRouter密钥或获取模型失败：%@。"
+          }
+        },
+        "zh-Hant": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "驗證 OpenRouter 金鑰或擷取模型失敗：%@。"
+          }
+        }
+      }
+    }
+  }
+}

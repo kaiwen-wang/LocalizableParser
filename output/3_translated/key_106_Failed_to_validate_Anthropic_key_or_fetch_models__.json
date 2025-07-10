@@ -1,0 +1,119 @@
+{
+  "sourceLanguage": "en",
+  "version": "1.0",
+  "strings": {
+    "Failed to validate Anthropic key or fetch models: %@": {
+      "comment": "Anthropic key/model fetch error",
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Fehler beim Validieren des anthropischen Schlüssels oder beim Abrufen von Modellen: %@."
+          }
+        },
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Error al validar la clave antropica o recuperar modelos: %@."
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Échec de la validation de la clé anthropique ou de la récupération des modèles: %@."
+          }
+        },
+        "hi": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Anthropic कुंजी को सत्यापित करने में विफल रहा या मॉडल्स प्राप्त करने में: %@।"
+          }
+        },
+        "id": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Gagal memvalidasi kunci Antropik atau mengambil model: %@."
+          }
+        },
+        "it": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Impossibile convalidare la chiave antropica o recuperare i modelli: %@."
+          }
+        },
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Anthropicキーの検証またはモデルの取得に失敗しました: %@."
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Anthropic 키를 유효성 검사하지 못했거나 모델을 가져오지 못했습니다: %@."
+          }
+        },
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Validatie van de Anthropische sleutel mislukt of modellen ophalen: %@."
+          }
+        },
+        "pl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Nie udało się zweryfikować klucza antropocentrycznego lub pobrać modeli: %@."
+          }
+        },
+        "pt-BR": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Falha ao validar a chave Antropica ou buscar modelos: %@."
+          }
+        },
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Не удалось проверить антропный ключ или получить модели: %@."
+          }
+        },
+        "th": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "การตรวจสอบคีย์ Anthropoc หรือดึงโมเดลล้มเหลว: %@"
+          }
+        },
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Anthropic anahtarını doğrulayamadı veya modelleri alamadı: %@."
+          }
+        },
+        "uk": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Не вдалося перевірити антропічний ключ або отримати моделі: %@."
+          }
+        },
+        "vi": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Không thể xác thực khóa Anthropic hoặc truy xuất mô hình: %@."
+          }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "验证人类密钥或获取模型失败：%@。"
+          }
+        },
+        "zh-Hant": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "驗證人類密鑰或擷取模型失敗：%@。"
+          }
+        }
+      }
+    }
+  }
+}

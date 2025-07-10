@@ -1,0 +1,118 @@
+{
+  "sourceLanguage": "en",
+  "version": "1.0",
+  "strings": {
+    "You can create and edit events, but viewing existing events requires full access.": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Sie können Veranstaltungen erstellen und bearbeiten, aber zum Anzeigen vorhandener Veranstaltungen ist voller Zugriff erforderlich."
+          }
+        },
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Puedes crear y editar eventos, pero ver eventos existentes requiere acceso completo."
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Vous pouvez créer et modifier des événements, mais pour voir les événements existants, un accès complet est nécessaire."
+          }
+        },
+        "hi": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "आप घटनाएँ बना और संपादित कर सकते हैं, लेकिन मौजूदा घटनाएँ देखने के लिए पूरी पहुंच की आवश्यकता होती है।"
+          }
+        },
+        "id": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Anda dapat membuat dan mengedit acara, tetapi melihat acara yang ada memerlukan akses penuh."
+          }
+        },
+        "it": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Puoi creare e modificare eventi, ma per visualizzare gli eventi esistenti è necessario l'accesso completo."
+          }
+        },
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "イベントを作成および編集することはできますが、既存のイベントを表示するには、フルアクセスが必要です。"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "이벤트를 생성하고 편집할 수 있지만, 기존 이벤트를 보려면 전체 액세스 권한이 필요합니다."
+          }
+        },
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Je kunt evenementen maken en bewerken, maar om bestaande evenementen te bekijken is volledige toegang vereist."
+          }
+        },
+        "pl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Możesz tworzyć i edytować wydarzenia, ale przeglądanie istniejących wydarzeń wymaga pełnego dostępu."
+          }
+        },
+        "pt-BR": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Você pode criar e editar eventos, mas visualizar eventos existentes requer acesso total."
+          }
+        },
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Вы можете создавать и редактировать события, но для просмотра существующих событий требуется полный доступ."
+          }
+        },
+        "th": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "คุณสามารถสร้างและแก้ไขกิจกรรมได้ แต่การดูกิจกรรมที่มีอยู่ต้องการการเข้าถึงแบบเต็มที่"
+          }
+        },
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Etkinlik oluşturabilir ve düzenleyebilirsiniz, ancak mevcut etkinlikleri görüntülemek için tam erişim gereklidir."
+          }
+        },
+        "uk": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Ви можете створювати та редагувати події, але для перегляду існуючих подій потрібен повний доступ."
+          }
+        },
+        "vi": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Bạn có thể tạo và chỉnh sửa sự kiện, nhưng việc xem các sự kiện hiện có yêu cầu quyền truy cập đầy đủ."
+          }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "您可以创建和编辑事件，但查看现有事件需要完全访问权限"
+          }
+        },
+        "zh-Hant": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "您可以創建和編輯事件，但查看現有事件需要完整訪問權限。"
+          }
+        }
+      }
+    }
+  }
+}

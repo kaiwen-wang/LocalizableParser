@@ -1,0 +1,125 @@
+{
+  "sourceLanguage": "en",
+  "version": "1.0",
+  "strings": {
+    "%@\n\nTranscript with timestamps and IDs:\n%@": {
+      "comment": "Format for system prompt in chat. First placeholder is base prompt, second is transcript",
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%1$@\n\nTranskript mit Zeitstempeln und IDs:\n%2$@"
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "new",
+            "value": "%1$@\n\nTranscript with timestamps and IDs:\n%2$@"
+          }
+        },
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%1$@\n\nTranscripción con marcas de tiempo e IDs:\n%2$@"
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%1$@\n\nTranscription avec horodatages et identifiants :\n%2$@"
+          }
+        },
+        "hi": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%1$@\n\nसमय संकेत और आईडी के साथ पुनर्लेख: \n%2$@"
+          }
+        },
+        "id": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%1$@\n\nTranskrip dengan cap waktu dan ID:\n%2$@"
+          }
+        },
+        "it": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%1$@\n\nTrascrizione con timestamp e ID:\n%2$@"
+          }
+        },
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%1$@\n\nタイムスタンプとID付きのトランスクリプト：\n%2$@"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%1$@\n\n타임스탬프와 ID가 포함된 대화록:\n%2$@"
+          }
+        },
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%1$@\n\nTranscript met tijdstempels en ID's:\n%2$@"
+          }
+        },
+        "pl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%1$@\n\nTranskrypt z znacznikami czasowymi i identyfikatorami:\n%2$@"
+          }
+        },
+        "pt-BR": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%1$@\n\nTranscrição com carimbos de data/hora e IDs:\n%2$@"
+          }
+        },
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%1$@\n\nТранскрипт с временными метками и идентификаторами:\n%2$@"
+          }
+        },
+        "th": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%1$@\n\nการถอดเสียงพร้อมการประทับเวลาและรหัสประจำตัว:\n%2$@"
+          }
+        },
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%1$@\n\nZaman damgaları ve kimliklerle birlikte transkript:\n%2$@"
+          }
+        },
+        "uk": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%1$@\n\nТранскрипт з позначками часу та ідентифікаторами:\n%2$@"
+          }
+        },
+        "vi": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%1$@\n\nBảng điểm có dấu thời gian và ID:\n%2$@"
+          }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%1$@\n\n带有时间戳和ID的转录：\n%2$@"
+          }
+        },
+        "zh-Hant": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%1$@\n\n帶有時間戳和ID的文字記錄：\n%2$@"
+          }
+        }
+      }
+    }
+  }
+}

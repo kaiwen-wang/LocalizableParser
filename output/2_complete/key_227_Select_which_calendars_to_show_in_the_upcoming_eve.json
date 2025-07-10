@@ -1,0 +1,118 @@
+{
+  "sourceLanguage": "en",
+  "version": "1.0",
+  "strings": {
+    "Select which calendars to show in the upcoming events view": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Wählen Sie aus, welche Kalender in der Ansicht der bevorstehenden Ereignisse angezeigt werden sollen."
+          }
+        },
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Seleccione qué calendarios mostrar en la vista de próximos eventos."
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Sélectionner les calendriers à afficher dans la vue des événements à venir"
+          }
+        },
+        "hi": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "आगामी घटनाओं के दृश्य में दिखाने के लिए कौन-कौन से कैलेंडर चुनें"
+          }
+        },
+        "id": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Pilih kalender yang akan ditampilkan dalam tampilan acara mendatang"
+          }
+        },
+        "it": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Seleziona quali calendari mostrare nella vista degli eventi imminenti"
+          }
+        },
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "今後のイベントのビューで表示するカレンダーを選択する"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "다가오는 이벤트 보기에서 표시할 캘린더 선택"
+          }
+        },
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Selecteer welke agenda's u wilt weergeven in de weergave van aankomende evenementen"
+          }
+        },
+        "pl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Wybierz, które kalendarze mają być wyświetlane w widoku nadchodzących wydarzeń."
+          }
+        },
+        "pt-BR": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Selecione quais calendários mostrar na visualização de próximos eventos"
+          }
+        },
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Выберите календари для отображения в списке предстоящих событий"
+          }
+        },
+        "th": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "เลือกปฏิทินที่จะแสดงในมุมมองเหตุการณ์ที่กำลังมาถึง"
+          }
+        },
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Yaklaşan etkinlikler görünümünde hangi takvimlerin gösterileceğini seçin"
+          }
+        },
+        "uk": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Виберіть, які календарі показувати в перегляді майбутніх подій"
+          }
+        },
+        "vi": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Chọn những lịch nào để hiển thị trong chế độ xem sự kiện sắp tới"
+          }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "选择要在即将到来的事件视图中显示的日历"
+          }
+        },
+        "zh-Hant": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "選擇要在即將到來的事件視圖中顯示的日曆"
+          }
+        }
+      }
+    }
+  }
+}

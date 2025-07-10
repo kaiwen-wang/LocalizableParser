@@ -1,0 +1,118 @@
+{
+  "sourceLanguage": "en",
+  "version": "1.0",
+  "strings": {
+    "If enabled, the Purchase Status section will be hidden from the Permissions screen.": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Wenn aktiviert, wird der Kaufstatusbereich vom Berechtigungsbildschirm ausgeblendet."
+          }
+        },
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Si está habilitado, la sección Estado de compra se ocultará de la pantalla de Permisos."
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Si activé, la section État d'achat sera masquée de l'écran des autorisations."
+          }
+        },
+        "hi": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "यदि सक्षम है, तो अधिकार स्क्रीन से खरीदारी स्थिति खो जाएगी।"
+          }
+        },
+        "id": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Jika diaktifkan, bagian Status Pembelian akan disembunyikan dari layar Izin."
+          }
+        },
+        "it": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Se abilitato, la sezione Stato acquisto sarà nascosta dalla schermata Autorizzazioni."
+          }
+        },
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "有効になっている場合、購入状況セクションはアクセス許可画面から非表示になります。"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "활성화된 경우 권한 화면에서 구매 상태 섹션이 숨겨집니다."
+          }
+        },
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Indien ingeschakeld, wordt het gedeelte Aankoopstatus verborgen op het scherm Machtigingen."
+          }
+        },
+        "pl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Jeśli jest włączone, sekcja Status zakupu zostanie ukryta z ekranu Uprawnienia."
+          }
+        },
+        "pt-BR": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Se ativado, a seção Status da Compra será ocultada da tela de Permissões."
+          }
+        },
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Если включено, раздел Статус покупки будет скрыт на экране Разрешения."
+          }
+        },
+        "th": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "หากเปิดใช้งาน ส่วนสถานะการซื้อจะถูกซ่อนไว้จากหน้าจอการอนุญาต์การใช้งาน ณ."
+          }
+        },
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Etkinleştirilirse, Satın Alma Durumu bölümü İzinler ekranından gizlenecektir."
+          }
+        },
+        "uk": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Якщо ввімкнено, розділ Статус покупки буде прихований на екрані Дозволи."
+          }
+        },
+        "vi": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Nếu được kích hoạt, phần Trạng thái Mua hàng sẽ bị ẩn khỏi màn hình Quyền."
+          }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "如果启用，购买状态部分将从权限屏幕中隐藏。"
+          }
+        },
+        "zh-Hant": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "如果啟用，購買狀態部分將從權限畫面中隱藏。"
+          }
+        }
+      }
+    }
+  }
+}

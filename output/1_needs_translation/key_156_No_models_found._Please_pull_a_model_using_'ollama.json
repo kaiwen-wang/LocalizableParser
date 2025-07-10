@@ -1,0 +1,31 @@
+{
+  "sourceLanguage": "en",
+  "version": "1.0",
+  "strings": {
+    "No models found. Please pull a model using 'ollama pull' in Terminal.": {
+      "comment": "Error shown when no models are available"
+    }
+  },
+  "_meta": {
+    "missingLangs": [
+      "de",
+      "es",
+      "fr",
+      "hi",
+      "id",
+      "it",
+      "ja",
+      "ko",
+      "nl",
+      "pl",
+      "pt-BR",
+      "ru",
+      "th",
+      "tr",
+      "uk",
+      "vi",
+      "zh-Hans",
+      "zh-Hant"
+    ]
+  }
+}

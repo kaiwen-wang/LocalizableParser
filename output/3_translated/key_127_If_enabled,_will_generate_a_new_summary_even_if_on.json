@@ -1,0 +1,118 @@
+{
+  "sourceLanguage": "en",
+  "version": "1.0",
+  "strings": {
+    "If enabled, will generate a new summary even if one already exists. If disabled, will preserve existing summaries.": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Wenn aktiviert, wird auch dann eine neue Zusammenfassung generiert, wenn bereits eine vorhanden ist. Wenn deaktiviert, werden bestehende Zusammenfassungen beibehalten."
+          }
+        },
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Si está habilitado, generará un nuevo resumen incluso si ya existe uno. Si está deshabilitado, conservará los resúmenes existentes."
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Si activé, générera un nouveau résumé même s'il en existe déjà un. Si désactivé, conservera les résumés existants."
+          }
+        },
+        "hi": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "यदि सक्षम है, तो एक नया सारांश उत्पन्न करेगा यदि पहले से ही एक है। यदि अक्षम है, तो मौजूदा सारांश को संरक्षित रखेगा।"
+          }
+        },
+        "id": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Jika diaktifkan, akan menghasilkan ringkasan baru bahkan jika sudah ada satu. Jika dinonaktifkan, akan mempertahankan ringkasan yang sudah ada."
+          }
+        },
+        "it": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Se abilitato, genererà un nuovo riepilogo anche se ne esiste già uno. Se disabilitato, preserverà i riepiloghi esistenti."
+          }
+        },
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "有効にすると、すでに存在する場合でも新しいサマリーを生成します。 無効にすると、既存のサマリーを保持します。"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "활성화되면 이미 요약이 있는 경우에도 새로운 요약을 생성합니다. 비활성화되면 기존 요약을 유지합니다."
+          }
+        },
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Indien ingeschakeld, zal een nieuwe samenvatting worden gegenereerd, zelfs als er al een bestaat. Indien uitgeschakeld, zullen bestaande samenvattingen behouden blijven."
+          }
+        },
+        "pl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Jeśli jest włączone, zostanie wygenerowane nowe podsumowanie, nawet jeśli już istnieje. Jeśli jest wyłączone, istniejące podsumowania zostaną zachowane."
+          }
+        },
+        "pt-BR": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Se ativado, irá gerar um novo resumo mesmo que um já exista. Se desativado, irá preservar os resumos existentes."
+          }
+        },
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Если включено, будет создан новый обзор, даже если уже существует. Если отключено, будут сохранены существующие обзоры."
+          }
+        },
+        "th": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "หากเปิดใช้งาน จะสร้างสรุปใหม่แม้ว่ามีอยู่แล้ว หากปิดใช้งาน จะรักษาสรุปที่มีอยู่ไว้"
+          }
+        },
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Etkinleştirildiğinde, zaten varsa yeni bir özet oluşturacak. Devre dışı bırakıldığında mevcut özetleri koruyacak."
+          }
+        },
+        "uk": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Якщо увімкнено, буде створено новий підсумок, навіть якщо вже існує один. Якщо вимкнено, будуть збережені існуючі підсумки."
+          }
+        },
+        "vi": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Nếu được kích hoạt, sẽ tạo ra một bản tóm tắt mới ngay cả khi đã tồn tại một bản tóm tắt. Nếu bị vô hiệu hóa, sẽ bảo tồn các bản tóm tắt hiện tại."
+          }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "如果启用，即使已存在摘要，也会生成新摘要。如果禁用，将保留现有摘要。"
+          }
+        },
+        "zh-Hant": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "如果啟用，即使已存在摘要，也會生成新摘要。如果停用，將保留現有摘要。"
+          }
+        }
+      }
+    }
+  }
+}

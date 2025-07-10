@@ -1,0 +1,31 @@
+{
+  "sourceLanguage": "en",
+  "version": "1.0",
+  "strings": {
+    "When summarizing meeting transcripts, follow these core principles:\n\n1. Extract Key Information\n- Meeting title, date, and participants\n- Main topics and themes discussed\n- Important decisions or next steps\n- If this does not exist, then do not include this.\n- Key contextual details\n\n2. Organize Content\n- Use clear headers to separate major topics\n- Present information hierarchically\n- Group related points together\n- Include relevant details while maintaining brevity\n\n3. Format for Readability\n- Do not repeat yourself by saying \"here is a summary\" or \"this summary is about\"\n- Use consistent formatting with headers and bullet points\n- Keep language clear and concise\n- Maintain professional tone\n- Present information in logical flow\n\n4. Format for Output\n- Rather than Markdown syntax for headings, use bold text because Markdown render is rendered too big.\n- Use bulleted lists (*) for key points and action items.\n- Use bold (**) for emphasis where appropriate. Do not use italics except inline in paragraphs.\n- If applicable, use tables to organize data clearly.\n\nThe summary should capture the essential content and context while filtering out conversational elements and repetition. Ensure the output is well-formatted Markdown that can be easily parsed and displayed.": {
+      "comment": "Base prompt for summarizing meeting transcripts"
+    }
+  },
+  "_meta": {
+    "missingLangs": [
+      "de",
+      "es",
+      "fr",
+      "hi",
+      "id",
+      "it",
+      "ja",
+      "ko",
+      "nl",
+      "pl",
+      "pt-BR",
+      "ru",
+      "th",
+      "tr",
+      "uk",
+      "vi",
+      "zh-Hans",
+      "zh-Hant"
+    ]
+  }
+}

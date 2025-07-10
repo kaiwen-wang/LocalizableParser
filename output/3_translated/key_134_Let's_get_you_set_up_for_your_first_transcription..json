@@ -1,0 +1,118 @@
+{
+  "sourceLanguage": "en",
+  "version": "1.0",
+  "strings": {
+    "Let's get you set up for your first transcription. Here are the key steps:": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Lassen Sie uns für Ihre erste Transkription einrichten. Hier sind die wichtigsten Schritte:"
+          }
+        },
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Vamos a prepararte para tu primera transcripción. Aquí están los pasos clave:"
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Préparons votre première transcription. Voici les étapes clés :"
+          }
+        },
+        "hi": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "\"चलो, आपको अपनी पहली ट्रांसक्रिप्शन के लिए तैयार करते हैं। यहाँ मुख्य कदम हैं:\""
+          }
+        },
+        "id": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Mari kita siapkan Anda untuk transkripsi pertama Anda. Berikut langkah-langkah kunci:"
+          }
+        },
+        "it": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Prepariamoci per la tua prima trascrizione. Ecco i passaggi chiave:"
+          }
+        },
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "最初の転写の準備を整えましょう。以下が主要なステップです："
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "\"첫 번째 전사를 위해 설정해 드릴게요. 주요 단계는 다음과 같습니다:\""
+          }
+        },
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Laten we je klaarmaken voor je eerste transcriptie. Hier zijn de belangrijkste stappen:"
+          }
+        },
+        "pl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Przygotujmy Cię do pierwszej transkrypcji. Oto kluczowe kroki:"
+          }
+        },
+        "pt-BR": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Vamos configurar sua primeira transcrição. Aqui estão os passos-chave:"
+          }
+        },
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Давайте настроим вас для вашей первой транскрипции. Вот основные шаги:"
+          }
+        },
+        "th": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "มาเริ่มตั้งค่าการถอดรหัสครั้งแรกของคุณกันเถอะ นี่คือขั้นตอนสำคัญ:"
+          }
+        },
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "İlk transkripsiyonunuz için hazırlanmanıza yardımcı olalım. İşte temel adımlar:"
+          }
+        },
+        "uk": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Давайте налаштуємо вас на вашу першу транскрипцію. Ось ключові кроки:"
+          }
+        },
+        "vi": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Hãy bắt đầu thiết lập cho bản ghi âm đầu tiên của bạn. Dưới đây là các bước chính:"
+          }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "让我们为您的第一次转录做好准备。以下是关键步骤："
+          }
+        },
+        "zh-Hant": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "讓我們為您的第一次轉錄做好準備。以下是關鍵步驟："
+          }
+        }
+      }
+    }
+  }
+}
