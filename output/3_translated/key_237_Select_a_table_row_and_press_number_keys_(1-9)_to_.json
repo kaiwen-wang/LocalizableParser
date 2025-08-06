@@ -1,0 +1,118 @@
+{
+  "sourceLanguage": "en",
+  "version": "1.0",
+  "strings": {
+    "Select a table row and press number keys (1-9) to assign speakers, or 0 to remove speaker assignment": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Wählen Sie eine Tabellenzeile aus und drücken Sie die Zahlen (1-9), um Lautsprecher zuzuweisen, oder 0, um die Lautsprecherzuweisung aufzuheben."
+          }
+        },
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Seleccione una fila de la tabla y presione las teclas numéricas (1-9) para asignar altavoces, o 0 para eliminar la asignación del altavoz."
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Sélectionnez une ligne de tableau et appuyez sur les touches numériques (1-9) pour attribuer des haut-parleurs, ou 0 pour supprimer l'attribution du haut-parleur."
+          }
+        },
+        "hi": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "\"एक तालिका पंक्ति का चयन करें और नंबर कुंजी (1-9) दबाएं ताकि वक्ता को नियुक्त किया जा सके, या वक्ता को हटाने के लिए 0 दबाएं\""
+          }
+        },
+        "id": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Pilih baris tabel dan tekan tombol angka (1-9) untuk menetapkan pembicara, atau 0 untuk menghapus penugasan pembicara."
+          }
+        },
+        "it": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Seleziona una riga della tabella e premi i tasti numerici (1-9) per assegnare gli altoparlanti, o 0 per rimuovere l'assegnazione degli altoparlanti."
+          }
+        },
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "テーブル行を選択し、スピーカーを割り当てるには数字キー（1〜9）を押すか、スピーカーの割り当てを解除するには0を押します。"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "테이블 행을 선택하고 스피커를 할당하려면 숫자 키(1-9)를 누르세요. 스피커 할당을 제거하려면 0을 누르세요."
+          }
+        },
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Selecteer een tabelrij en druk op de cijfertoetsen (1-9) om sprekers toe te wijzen, of 0 om de sprekerstoewijzing te verwijderen."
+          }
+        },
+        "pl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Wybierz wiersz tabeli i naciśnij klawisze numeryczne (1-9), aby przypisać mówców, lub 0, aby usunąć przypisanie mówcy."
+          }
+        },
+        "pt-BR": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Selecione uma linha da tabela e pressione as teclas numéricas (1-9) para atribuir alto-falantes, ou 0 para remover a atribuição de alto-falante."
+          }
+        },
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Выберите строку таблицы и нажмите клавиши с цифрами (1-9), чтобы назначить динамики, или 0, чтобы удалить назначение динамика."
+          }
+        },
+        "th": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "เลือกแถวของตารางและกดปุ่มตัวเลข (1-9) เพื่อกำหนดลำดับของผู้พูด หรือ 0 เพื่อยกเลิกการกำหนดลำดับผู้พูด"
+          }
+        },
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Tablo satırını seçin ve hoparlörleri atamak için numara tuşlarına (1-9) basın veya hoparlör atamasını kaldırmak için 0'a basın."
+          }
+        },
+        "uk": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Виберіть рядок таблиці та натисніть клавіші цифр (1-9), щоб призначити динаміки, або 0, щоб скасувати призначення динаміка."
+          }
+        },
+        "vi": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Chọn một hàng trong bảng và nhấn các phím số (1-9) để gán loa, hoặc 0 để loại bỏ việc gán loa."
+          }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "选择一行表并按数字键（1-9）分配扬声器，或按0取消扬声器分配。"
+          }
+        },
+        "zh-Hant": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "選擇一行表格並按數字鍵（1-9）分配講者，或按 0 取消講者分配。"
+          }
+        }
+      }
+    }
+  }
+}

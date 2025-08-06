@@ -1,0 +1,29 @@
+{
+  "sourceLanguage": "en",
+  "version": "1.0",
+  "strings": {
+    "Select a table row and press number keys (1-9) to assign speakers, or 0 to remove speaker assignment": {}
+  },
+  "_meta": {
+    "missingLangs": [
+      "de",
+      "es",
+      "fr",
+      "hi",
+      "id",
+      "it",
+      "ja",
+      "ko",
+      "nl",
+      "pl",
+      "pt-BR",
+      "ru",
+      "th",
+      "tr",
+      "uk",
+      "vi",
+      "zh-Hans",
+      "zh-Hant"
+    ]
+  }
+}

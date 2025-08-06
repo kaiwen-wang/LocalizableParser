@@ -1,0 +1,118 @@
+{
+  "sourceLanguage": "en",
+  "version": "1.0",
+  "strings": {
+    "Choose an option below to remove the 5-item limit and enable unlimited transcriptions.": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Wählen Sie unten eine Option aus, um das 5-Element-Limit zu entfernen und unbegrenzte Transkriptionen zu aktivieren."
+          }
+        },
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Elija una opción a continuación para eliminar el límite de 5 elementos y habilitar transcripciones ilimitadas."
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Choisissez une option ci-dessous pour supprimer la limite de 5 éléments et activer des transcriptions illimitées."
+          }
+        },
+        "hi": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "निम्नलिखित विकल्प में से एक चुनें ताकि 5-आइटम सीमा को हटाया जा सके और असीमित ट्रांसक्रिप्शन सक्षम की जा सके।"
+          }
+        },
+        "id": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Pilih opsi di bawah ini untuk menghapus batasan 5 item dan mengaktifkan transkripsi tanpa batas."
+          }
+        },
+        "it": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Scegli un'opzione qui sotto per rimuovere il limite di 5 elementi e abilitare trascrizioni illimitate."
+          }
+        },
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "5アイテム制限を解除し、無制限の転写を有効にするオプションを選択してください。"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "아래 옵션 중 하나를 선택하여 5개 항목 제한을 제거하고 무제한 전사를 활성화하세요."
+          }
+        },
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Kies hieronder een optie om de limiet van 5 items te verwijderen en onbeperkte transcripties in te schakelen."
+          }
+        },
+        "pl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Wybierz poniższą opcję, aby usunąć limit 5 elementów i włączyć nieograniczone transkrypcje."
+          }
+        },
+        "pt-BR": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Escolha uma opção abaixo para remover o limite de 5 itens e habilitar transcrições ilimitadas."
+          }
+        },
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Выберите один из вариантов ниже, чтобы удалить ограничение на 5 элементов и включить неограниченные транскрипции."
+          }
+        },
+        "th": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "เลือกตัวเลือกด้านล่างเพื่อยกเลิกขีดจำกัด 5 รายการและเปิดใช้งานการถอดรหัสได้ไม่จำกัด"
+          }
+        },
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "5 öğe sınırını kaldırın ve sınırsız transkripsiyonları etkinleştirmek için aşağıdaki seçeneklerden birini seçin."
+          }
+        },
+        "uk": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Оберіть варіант нижче, щоб зняти обмеження на 5 елементів та увімкнути необмежені транскрипції."
+          }
+        },
+        "vi": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Chọn một tùy chọn dưới đây để loại bỏ giới hạn 5 mục và kích hoạt việc chuyển văn bản không giới hạn."
+          }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "选择以下选项以去除5项限制并启用无限转录。"
+          }
+        },
+        "zh-Hant": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "選擇以下選項以移除 5 項限制並啟用無限轉錄。"
+          }
+        }
+      }
+    }
+  }
+}

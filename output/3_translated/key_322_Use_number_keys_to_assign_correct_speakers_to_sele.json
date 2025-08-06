@@ -1,0 +1,118 @@
+{
+  "sourceLanguage": "en",
+  "version": "1.0",
+  "strings": {
+    "Use number keys to assign correct speakers to selected row in the table after transcribing": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Verwenden Sie die Zahlenfelder, um den ausgewählten Zeilen im Tisch die richtigen Sprecher zuzuweisen, nachdem Sie sie transkribiert haben."
+          }
+        },
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Usa las teclas numéricas para asignar los altavoces correctos a la fila seleccionada en la tabla después de transcribir."
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Utilisez les touches numériques pour attribuer les bons haut-parleurs à la ligne sélectionnée dans le tableau après la transcription."
+          }
+        },
+        "hi": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "\"ट्रांसक्राइब करने के बाद चयनित पंक्ति में सही बोलने वाले को नंबर कुंजी का उपयोग करें।\""
+          }
+        },
+        "id": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Gunakan tombol angka untuk menetapkan pembicara yang benar ke baris yang dipilih dalam tabel setelah ditranskripsi."
+          }
+        },
+        "it": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Usa i tasti numerici per assegnare gli altoparlanti corretti alla riga selezionata nella tabella dopo la trascrizione."
+          }
+        },
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "選択した行に正しいスピーカーを割り当てるために、番号キーを使用します。"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "선택한 행에 올바른 스피커를 할당하려면 숫자 키를 사용하세요.\ttranslated string"
+          }
+        },
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Gebruik de cijfertoetsen om de juiste sprekers toe te wijzen aan de geselecteerde rij in de tabel na het transcriberen."
+          }
+        },
+        "pl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Użyj klawiszy numerycznych, aby przypisać poprawnych mówców do wybranej wiersza w tabeli po przepisaniu."
+          }
+        },
+        "pt-BR": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Use as teclas numéricas para atribuir os alto-falantes corretos à linha selecionada na tabela após a transcrição."
+          }
+        },
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Используйте цифровые клавиши для назначения правильных динамиков выбранной строки в таблице после транскрибирования."
+          }
+        },
+        "th": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "ใช้ปุ่มตัวเลขเพื่อกำหนดลำดับของผู้พูดที่ถูกต้องในแถวที่เลือกในตารางหลังจากการคัดค้าง"
+          }
+        },
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Seçilen satırdaki doğru hoparlörleri atamak için sayı tuşlarını kullanın."
+          }
+        },
+        "uk": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Використовуйте номерні клавіші, щоб призначити правильних спікерів для вибраного рядка в таблиці після транскрибування."
+          }
+        },
+        "vi": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Sử dụng các phím số để gán loa đúng cho hàng đã chọn trong bảng sau khi chuyển văn bản."
+          }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "使用数字键为表中选定的行分配正确的发言者，以完成转录。"
+          }
+        },
+        "zh-Hant": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "使用數字鍵將正確的講者分配給轉錄後表格中選定的行。"
+          }
+        }
+      }
+    }
+  }
+}

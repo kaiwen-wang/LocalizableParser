@@ -1,0 +1,118 @@
+{
+  "sourceLanguage": "en",
+  "version": "1.0",
+  "strings": {
+    "You've reached the 5-item limit for the free trial. Purchase to add unlimited transcriptions.": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Sie haben das 5-Elemente-Limit für die kostenlose Testversion erreicht. Kaufen Sie, um unbegrenzte Transkriptionen hinzuzufügen."
+          }
+        },
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Ha alcanzado el límite de 5 elementos para la prueba gratuita. Compre para agregar transcripciones ilimitadas."
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Vous avez atteint la limite de 5 éléments pour l'essai gratuit. Achetez pour ajouter des transcriptions illimitées."
+          }
+        },
+        "hi": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "मुफ्त परीक्षण के लिए 5-आइटम सीमा तक पहुंच गए हैं। अनलिमिटेड ट्रांसक्रिप्शन जोड़ने के लिए खरीदें।"
+          }
+        },
+        "id": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Anda telah mencapai batas 5 item untuk percobaan gratis. Beli untuk menambahkan transkripsi tanpa batas."
+          }
+        },
+        "it": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Hai raggiunto il limite di 5 elementi per la prova gratuita. Acquista per aggiungere trascrizioni illimitate."
+          }
+        },
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "無料トライアルの5アイテム制限に達しました。無制限の転写を追加するには購入してください。"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "무료 평가판의 5개 항목 제한에 도달했습니다. 무제한 전사를 추가하려면 구매하십시오."
+          }
+        },
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Je hebt de limiet van 5 items bereikt voor de gratis proefperiode. Koop om onbeperkte transcripties toe te voegen."
+          }
+        },
+        "pl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Osiągnąłeś limit 5 elementów dla wersji próbnej. Kup, aby dodać nieograniczone transkrypcje."
+          }
+        },
+        "pt-BR": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Você atingiu o limite de 5 itens para o teste gratuito. Compre para adicionar transcrições ilimitadas."
+          }
+        },
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Вы достигли предела в 5 элементов для бесплатной пробной версии. Приобретите, чтобы добавить неограниченные транскрипции."
+          }
+        },
+        "th": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "คุณได้ถึงขีดจำกัด 5 รายการสำหรับการทดลองใช้ฟรี ซื้อเพื่อเพิ่มการถอดรหัสได้ไม่จำกัด"
+          }
+        },
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Ücretsiz deneme sürümü için 5 öğe sınırına ulaştınız. Sınırsız transkripsiyon eklemek için satın alın."
+          }
+        },
+        "uk": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Ви досягли обмеження на 5 елементів для безкоштовної пробної версії. Придбайте, щоб додати необмежені транскрипції."
+          }
+        },
+        "vi": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Bạn đã đạt đến giới hạn 5 mục cho phiên dùng thử miễn phí. Mua để thêm các bản ghi âm không giới hạn."
+          }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "您已达到免费试用的5个项目限制。购买以添加无限转录。"
+          }
+        },
+        "zh-Hant": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "您已達到免費試用的 5 項限制。購買以新增無限轉錄。"
+          }
+        }
+      }
+    }
+  }
+}

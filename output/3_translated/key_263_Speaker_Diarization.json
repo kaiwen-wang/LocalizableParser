@@ -1,0 +1,118 @@
+{
+  "sourceLanguage": "en",
+  "version": "1.0",
+  "strings": {
+    "Speaker Diarization": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "\"Redner-Diarisierung\""
+          }
+        },
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "\"Diarización de altavoz\""
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Diary Speaker"
+          }
+        },
+        "hi": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "वक्ता विभाजन।"
+          }
+        },
+        "id": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Pemisahan Pembicara"
+          }
+        },
+        "it": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Diarizzazione dell'altoparlante"
+          }
+        },
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "スピーカーの識別"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "화자 구분"
+          }
+        },
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "\"Spreker Diarisatie\""
+          }
+        },
+        "pl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Diaryzacja mówcy."
+          }
+        },
+        "pt-BR": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Diarização de alto-falante"
+          }
+        },
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Диаризация диктора"
+          }
+        },
+        "th": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "การแยกแยกลำดับลำดับลำดับลำดับลำดับลำดับลำดับลำดับลำดับลำดับลำดับลำดับลำดับลำดับลำดับลำดับลำดับลำดับลำดับลำดับลำดับลำดับลำดับลำดับลำดับลำดับลำดับลำดับลำดับลำดับลำดับลำดับลำดับลำดับลำดับลำดับลำดับลำดับลำดับลำดับลำดับลำดับลำดับลำดับลำดับลำดับลำดับลำดับลำดับลำดับลำดับลำดับลำดับลำดับลำดับลำดับลำดับลำดับลำดับลำดับลำดับลำดับลำดับลำดับลำดับลำดับลำดับลำดับลำดับลำดับลำดับลำดับลำดับลำดับลำดับลำดับลำดับลำดับลำดับลำดับลำดับลำดับลำดับลำดับลำดับลำดับลำดับ"
+          }
+        },
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "\"Konuşmacı Tanımlama\""
+          }
+        },
+        "uk": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Діаризація диктора"
+          }
+        },
+        "vi": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Phân loại loa"
+          }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "说话者分离。"
+          }
+        },
+        "zh-Hant": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "語者分離"
+          }
+        }
+      }
+    }
+  }
+}
